@@ -1,0 +1,823 @@
+Name,Country,Profile,Period,Commodity,TradingDate,Contract,DeliveryPeriod,DeliveryStart,DeliveryEnd,Unit,ContractVolume,SettlementPrice
+Phelix-AT Base Month Future,Austrian,Base,Month,Power,2019-11-19,ATBM,2019.11,2019-11-01,2019-11-30,EUR/MWh,720,43.31
+Phelix-AT Base Month Future,Austrian,Base,Month,Power,2019-11-19,ATBM,2019.12,2019-12-01,2019-12-31,EUR/MWh,744,41.96
+Phelix-AT Base Month Future,Austrian,Base,Month,Power,2019-11-19,ATBM,2020.01,2020-01-01,2020-01-31,EUR/MWh,744,49.23
+Phelix-AT Base Month Future,Austrian,Base,Month,Power,2019-11-19,ATBM,2020.02,2020-02-01,2020-02-29,EUR/MWh,696,51.8
+Phelix-AT Base Month Future,Austrian,Base,Month,Power,2019-11-19,ATBM,2020.03,2020-03-01,2020-03-31,EUR/MWh,743,46.95
+Phelix-AT Base Month Future,Austrian,Base,Month,Power,2019-11-19,ATBM,2020.04,2020-04-01,2020-04-30,EUR/MWh,720,42.61
+Phelix-AT Base Month Future,Austrian,Base,Month,Power,2019-11-19,ATBM,2020.05,2020-05-01,2020-05-31,EUR/MWh,744,40.99
+Phelix-AT Base Quarter Future,Austrian,Base,Quarter,Power,2019-11-19,ATBQ,2020.01,2020-01-01,2020-03-31,EUR/MWh,2183,49.27
+Phelix-AT Base Quarter Future,Austrian,Base,Quarter,Power,2019-11-19,ATBQ,2020.04,2020-04-01,2020-06-30,EUR/MWh,2184,42.45
+Phelix-AT Base Quarter Future,Austrian,Base,Quarter,Power,2019-11-19,ATBQ,2020.07,2020-07-01,2020-09-30,EUR/MWh,2208,45
+Phelix-AT Base Quarter Future,Austrian,Base,Quarter,Power,2019-11-19,ATBQ,2020.10,2020-10-01,2020-12-31,EUR/MWh,2209,54.29
+Phelix-AT Base Quarter Future,Austrian,Base,Quarter,Power,2019-11-19,ATBQ,2021.01,2021-01-01,2021-03-31,EUR/MWh,2159,56.1
+Phelix-AT Base Quarter Future,Austrian,Base,Quarter,Power,2019-11-19,ATBQ,2021.04,2021-04-01,2021-06-30,EUR/MWh,2184,43.29
+Phelix-AT Base Quarter Future,Austrian,Base,Quarter,Power,2019-11-19,ATBQ,2021.07,2021-07-01,2021-09-30,EUR/MWh,2208,44.59
+Phelix-AT Base Year Future,Austrian,Base,Year,Power,2019-11-19,ATBY,2020.01,2020-01-01,2020-12-31,EUR/MWh,8784,47.76
+Phelix-AT Base Year Future,Austrian,Base,Year,Power,2019-11-19,ATBY,2021.01,2021-01-01,2021-12-31,EUR/MWh,8760,49.77
+Phelix-AT Base Year Future,Austrian,Base,Year,Power,2019-11-19,ATBY,2022.01,2022-01-01,2022-12-31,EUR/MWh,8760,50.91
+Phelix-AT Base Year Future,Austrian,Base,Year,Power,2019-11-19,ATBY,2023.01,2023-01-01,2023-12-31,EUR/MWh,8760,52.73
+Phelix-AT Base Year Future,Austrian,Base,Year,Power,2019-11-19,ATBY,2024.01,2024-01-01,2024-12-31,EUR/MWh,8784,53.84
+Phelix-AT Base Year Future,Austrian,Base,Year,Power,2019-11-19,ATBY,2025.01,2025-01-01,2025-12-31,EUR/MWh,8760,54.42
+Phelix-AT Peak Month Future,Austrian,Peak,Month,Power,2019-11-19,ATPM,2019.11,2019-11-01,2019-11-29,EUR/MWh,252,53.38
+Phelix-AT Peak Month Future,Austrian,Peak,Month,Power,2019-11-19,ATPM,2019.12,2019-12-02,2019-12-31,EUR/MWh,264,53.05
+Phelix-AT Peak Month Future,Austrian,Peak,Month,Power,2019-11-19,ATPM,2020.01,2020-01-01,2020-01-31,EUR/MWh,276,61.26
+Phelix-AT Peak Month Future,Austrian,Peak,Month,Power,2019-11-19,ATPM,2020.02,2020-02-03,2020-02-28,EUR/MWh,240,65.01
+Phelix-AT Peak Month Future,Austrian,Peak,Month,Power,2019-11-19,ATPM,2020.03,2020-03-02,2020-03-31,EUR/MWh,264,57.7
+Phelix-AT Peak Month Future,Austrian,Peak,Month,Power,2019-11-19,ATPM,2020.04,2020-04-01,2020-04-30,EUR/MWh,264,48.83
+Phelix-AT Peak Month Future,Austrian,Peak,Month,Power,2019-11-19,ATPM,2020.05,2020-05-01,2020-05-29,EUR/MWh,252,46.59
+Phelix-AT Peak Quarter Future,Austrian,Peak,Quarter,Power,2019-11-19,ATPQ,2020.01,2020-01-01,2020-03-31,EUR/MWh,780,61.21
+Phelix-AT Peak Quarter Future,Austrian,Peak,Quarter,Power,2019-11-19,ATPQ,2020.04,2020-04-01,2020-06-30,EUR/MWh,780,48.62
+Phelix-AT Peak Quarter Future,Austrian,Peak,Quarter,Power,2019-11-19,ATPQ,2020.07,2020-07-01,2020-09-30,EUR/MWh,792,52.53
+Phelix-AT Peak Quarter Future,Austrian,Peak,Quarter,Power,2019-11-19,ATPQ,2020.10,2020-10-01,2020-12-31,EUR/MWh,792,66.85
+Phelix-AT Peak Quarter Future,Austrian,Peak,Quarter,Power,2019-11-19,ATPQ,2021.01,2021-01-01,2021-03-31,EUR/MWh,768,68.42
+Phelix-AT Peak Quarter Future,Austrian,Peak,Quarter,Power,2019-11-19,ATPQ,2021.04,2021-04-01,2021-06-30,EUR/MWh,780,50.23
+Phelix-AT Peak Quarter Future,Austrian,Peak,Quarter,Power,2019-11-19,ATPQ,2021.07,2021-07-01,2021-09-30,EUR/MWh,792,52.63
+Phelix-AT Peak Year Future,Austrian,Peak,Year,Power,2019-11-19,ATPY,2020.01,2020-01-01,2020-12-31,EUR/MWh,3144,57.32
+Phelix-AT Peak Year Future,Austrian,Peak,Year,Power,2019-11-19,ATPY,2021.01,2021-01-01,2021-12-31,EUR/MWh,3132,60.31
+Phelix-AT Peak Year Future,Austrian,Peak,Year,Power,2019-11-19,ATPY,2022.01,2022-01-03,2022-12-30,EUR/MWh,3120,62.27
+Phelix-AT Peak Year Future,Austrian,Peak,Year,Power,2019-11-19,ATPY,2023.01,2023-01-02,2023-12-29,EUR/MWh,3120,64.13
+Phelix-AT Peak Year Future,Austrian,Peak,Year,Power,2019-11-19,ATPY,2024.01,2024-01-01,2024-12-31,EUR/MWh,3144,66.01
+Phelix-AT Peak Year Future,Austrian,Peak,Year,Power,2019-11-19,ATPY,2025.01,2025-01-01,2025-12-31,EUR/MWh,3132,65.99
+Phelix-DE Base Day Future,German,Base,Day,Power,2019-11-19,DB19,2019.11,2019-11-19,2019-11-19,EUR/MWh,24,46.49
+Phelix-DE Base Day Future,German,Base,Day,Power,2019-11-19,DB20,2019.11,2019-11-20,2019-11-20,EUR/MWh,24,53.25
+Phelix-DE Base Day Future,German,Base,Day,Power,2019-11-19,DB21,2019.11,2019-11-21,2019-11-21,EUR/MWh,24,50.67
+Phelix-DE Base Day Future,German,Base,Day,Power,2019-11-19,DB22,2019.11,2019-11-22,2019-11-22,EUR/MWh,24,45.32
+Phelix-DE Base Day Future,German,Base,Day,Power,2019-11-19,DB23,2019.11,2019-11-23,2019-11-23,EUR/MWh,24,37.28
+Phelix-DE Base Day Future,German,Base,Day,Power,2019-11-19,DB24,2019.11,2019-11-24,2019-11-24,EUR/MWh,24,34.76
+Phelix-DE Base Day Future,German,Base,Day,Power,2019-11-19,DB25,2019.11,2019-11-25,2019-11-25,EUR/MWh,24,40.6
+Phelix-DE Base Week Future,German,Base,Week,Power,2019-11-19,DEB1,2019.11,2019-11-25,2019-12-01,EUR/MWh,168,37.88
+Phelix-DE Base Week Future,German,Base,Week,Power,2019-11-19,DEB2,2019.12,2019-12-02,2019-12-08,EUR/MWh,168,39.43
+Phelix-DE Base Week Future,German,Base,Week,Power,2019-11-19,DEB3,2019.12,2019-12-09,2019-12-15,EUR/MWh,168,41.53
+Phelix-DE Base Week Future,German,Base,Week,Power,2019-11-19,DEB4,2019.11,2019-11-18,2019-11-24,EUR/MWh,168,44.16
+Phelix-DE Base Week Future,German,Base,Week,Power,2019-11-19,DEB4,2019.12,2019-12-16,2019-12-22,EUR/MWh,168,42.02
+Phelix-DE Base Month Future,German,Base,Month,Power,2019-11-19,DEBM,2019.11,2019-11-01,2019-11-30,EUR/MWh,720,40.95
+Phelix-DE Base Month Future,German,Base,Month,Power,2019-11-19,DEBM,2019.12,2019-12-01,2019-12-31,EUR/MWh,744,37.4
+Phelix-DE Base Month Future,German,Base,Month,Power,2019-11-19,DEBM,2020.01,2020-01-01,2020-01-31,EUR/MWh,744,44.05
+Phelix-DE Base Month Future,German,Base,Month,Power,2019-11-19,DEBM,2020.02,2020-02-01,2020-02-29,EUR/MWh,696,47.25
+Phelix-DE Base Month Future,German,Base,Month,Power,2019-11-19,DEBM,2020.03,2020-03-01,2020-03-31,EUR/MWh,743,43.17
+Phelix-DE Base Month Future,German,Base,Month,Power,2019-11-19,DEBM,2020.04,2020-04-01,2020-04-30,EUR/MWh,720,41.29
+Phelix-DE Base Month Future,German,Base,Month,Power,2019-11-19,DEBM,2020.05,2020-05-01,2020-05-31,EUR/MWh,744,39.94
+Phelix-DE Base Month Future,German,Base,Month,Power,2019-11-19,DEBM,2020.06,2020-06-01,2020-06-30,EUR/MWh,720,42.54
+Phelix-DE Base Month Future,German,Base,Month,Power,2019-11-19,DEBM,2020.07,2020-07-01,2020-07-31,EUR/MWh,744,43.29
+Phelix-DE Base Month Future,German,Base,Month,Power,2019-11-19,DEBM,2020.08,2020-08-01,2020-08-31,EUR/MWh,744,41.65
+Phelix-DE Base Quarter Future,German,Base,Quarter,Power,2019-11-19,DEBQ,2020.01,2020-01-01,2020-03-31,EUR/MWh,2183,44.77
+Phelix-DE Base Quarter Future,German,Base,Quarter,Power,2019-11-19,DEBQ,2020.04,2020-04-01,2020-06-30,EUR/MWh,2184,41.24
+Phelix-DE Base Quarter Future,German,Base,Quarter,Power,2019-11-19,DEBQ,2020.07,2020-07-01,2020-09-30,EUR/MWh,2208,43.61
+Phelix-DE Base Quarter Future,German,Base,Quarter,Power,2019-11-19,DEBQ,2020.10,2020-10-01,2020-12-31,EUR/MWh,2209,49.59
+Phelix-DE Base Quarter Future,German,Base,Quarter,Power,2019-11-19,DEBQ,2021.01,2021-01-01,2021-03-31,EUR/MWh,2159,50.95
+Phelix-DE Base Quarter Future,German,Base,Quarter,Power,2019-11-19,DEBQ,2021.04,2021-04-01,2021-06-30,EUR/MWh,2184,42.14
+Phelix-DE Base Quarter Future,German,Base,Quarter,Power,2019-11-19,DEBQ,2021.07,2021-07-01,2021-09-30,EUR/MWh,2208,43.39
+Phelix-DE Base Quarter Future,German,Base,Quarter,Power,2019-11-19,DEBQ,2021.10,2021-10-01,2021-12-31,EUR/MWh,2209,49.95
+Phelix-DE Base Year Future,German,Base,Year,Power,2019-11-19,DEBY,2020.01,2020-01-01,2020-12-31,EUR/MWh,8784,44.81
+Phelix-DE Base Year Future,German,Base,Year,Power,2019-11-19,DEBY,2021.01,2021-01-01,2021-12-31,EUR/MWh,8760,46.6
+Phelix-DE Base Year Future,German,Base,Year,Power,2019-11-19,DEBY,2022.01,2022-01-01,2022-12-31,EUR/MWh,8760,47.78
+Phelix-DE Base Year Future,German,Base,Year,Power,2019-11-19,DEBY,2023.01,2023-01-01,2023-12-31,EUR/MWh,8760,49.6
+Phelix-DE Base Year Future,German,Base,Year,Power,2019-11-19,DEBY,2024.01,2024-01-01,2024-12-31,EUR/MWh,8784,50.64
+Phelix-DE Base Year Future,German,Base,Year,Power,2019-11-19,DEBY,2025.01,2025-01-01,2025-12-31,EUR/MWh,8760,51.19
+Phelix-DE Peak Week Future,German,Peak,Week,Power,2019-11-19,DEP1,2019.11,2019-11-25,2019-11-29,EUR/MWh,60,48.24
+Phelix-DE Peak Week Future,German,Peak,Week,Power,2019-11-19,DEP2,2019.12,2019-12-02,2019-12-06,EUR/MWh,60,50.88
+Phelix-DE Peak Week Future,German,Peak,Week,Power,2019-11-19,DEP3,2019.12,2019-12-09,2019-12-13,EUR/MWh,60,54
+Phelix-DE Peak Week Future,German,Peak,Week,Power,2019-11-19,DEP4,2019.11,2019-11-18,2019-11-22,EUR/MWh,60,55.79
+Phelix-DE Peak Week Future,German,Peak,Week,Power,2019-11-19,DEP4,2019.12,2019-12-16,2019-12-20,EUR/MWh,60,55.22
+Phelix-DE Peak Month Future,German,Peak,Month,Power,2019-11-19,DEPM,2019.11,2019-11-01,2019-11-29,EUR/MWh,252,50.42
+Phelix-DE Peak Month Future,German,Peak,Month,Power,2019-11-19,DEPM,2019.12,2019-12-02,2019-12-31,EUR/MWh,264,47.77
+Phelix-DE Peak Month Future,German,Peak,Month,Power,2019-11-19,DEPM,2020.01,2020-01-01,2020-01-31,EUR/MWh,276,54.71
+Phelix-DE Peak Month Future,German,Peak,Month,Power,2019-11-19,DEPM,2020.02,2020-02-03,2020-02-28,EUR/MWh,240,58.84
+Phelix-DE Peak Month Future,German,Peak,Month,Power,2019-11-19,DEPM,2020.03,2020-03-02,2020-03-31,EUR/MWh,264,52.06
+Phelix-DE Peak Month Future,German,Peak,Month,Power,2019-11-19,DEPM,2020.04,2020-04-01,2020-04-30,EUR/MWh,264,47.18
+Phelix-DE Peak Month Future,German,Peak,Month,Power,2019-11-19,DEPM,2020.05,2020-05-01,2020-05-29,EUR/MWh,252,45.24
+Phelix-DE Peak Quarter Future,German,Peak,Quarter,Power,2019-11-19,DEPQ,2020.01,2020-01-01,2020-03-31,EUR/MWh,780,55.08
+Phelix-DE Peak Quarter Future,German,Peak,Quarter,Power,2019-11-19,DEPQ,2020.04,2020-04-01,2020-06-30,EUR/MWh,780,46.76
+Phelix-DE Peak Quarter Future,German,Peak,Quarter,Power,2019-11-19,DEPQ,2020.07,2020-07-01,2020-09-30,EUR/MWh,792,50.55
+Phelix-DE Peak Quarter Future,German,Peak,Quarter,Power,2019-11-19,DEPQ,2020.10,2020-10-01,2020-12-31,EUR/MWh,792,61.37
+Phelix-DE Peak Quarter Future,German,Peak,Quarter,Power,2019-11-19,DEPQ,2021.01,2021-01-01,2021-03-31,EUR/MWh,768,62.59
+Phelix-DE Peak Quarter Future,German,Peak,Quarter,Power,2019-11-19,DEPQ,2021.04,2021-04-01,2021-06-30,EUR/MWh,780,48.72
+Phelix-DE Peak Quarter Future,German,Peak,Quarter,Power,2019-11-19,DEPQ,2021.07,2021-07-01,2021-09-30,EUR/MWh,792,51.04
+Phelix-DE Peak Year Future,German,Peak,Year,Power,2019-11-19,DEPY,2020.01,2020-01-01,2020-12-31,EUR/MWh,3144,53.46
+Phelix-DE Peak Year Future,German,Peak,Year,Power,2019-11-19,DEPY,2021.01,2021-01-01,2021-12-31,EUR/MWh,3132,56.25
+Phelix-DE Peak Year Future,German,Peak,Year,Power,2019-11-19,DEPY,2022.01,2022-01-03,2022-12-30,EUR/MWh,3120,58.54
+Phelix-DE Peak Year Future,German,Peak,Year,Power,2019-11-19,DEPY,2023.01,2023-01-02,2023-12-29,EUR/MWh,3120,60.73
+Phelix-DE Peak Year Future,German,Peak,Year,Power,2019-11-19,DEPY,2024.01,2024-01-01,2024-12-31,EUR/MWh,3144,62.54
+Phelix-DE Peak Year Future,German,Peak,Year,Power,2019-11-19,DEPY,2025.01,2025-01-01,2025-12-31,EUR/MWh,3132,62.49
+Phelix-DE Peak Day Future,German,Peak,Day,Power,2019-11-19,DP19,2019.11,2019-11-19,2019-11-19,EUR/MWh,12,56.21
+Phelix-DE Peak Day Future,German,Peak,Day,Power,2019-11-19,DP20,2019.11,2019-11-20,2019-11-20,EUR/MWh,12,62.41
+Phelix-DE Peak Day Future,German,Peak,Day,Power,2019-11-19,DP21,2019.11,2019-11-21,2019-11-21,EUR/MWh,12,59.43
+Phelix-DE Peak Day Future,German,Peak,Day,Power,2019-11-19,DP22,2019.11,2019-11-22,2019-11-22,EUR/MWh,12,51.23
+Phelix-DE Peak Day Future,German,Peak,Day,Power,2019-11-19,DP23,2019.11,2019-11-23,2019-11-23,EUR/MWh,12,43.77
+Phelix-DE Peak Day Future,German,Peak,Day,Power,2019-11-19,DP24,2019.11,2019-11-24,2019-11-24,EUR/MWh,12,38.83
+Phelix-DE Peak Day Future,German,Peak,Day,Power,2019-11-19,DP25,2019.11,2019-11-25,2019-11-25,EUR/MWh,12,48.87
+Phelix-DE Base Weekend Future,German,Base,Weekend,Power,2019-11-19,DWB1,2019.11,2019-11-30,2019-12-01,EUR/MWh,48,28.6
+Phelix-DE Base Weekend Future,German,Base,Weekend,Power,2019-11-19,DWB4,2019.11,2019-11-23,2019-11-24,EUR/MWh,48,36.02
+Phelix-DE Peak Weekend Future,German,Peak,Weekend,Power,2019-11-19,DWP4,2019.11,2019-11-23,2019-11-24,EUR/MWh,24,41.3
+Phelix-DE/AT Base Month Future,German-Austrian,Base,Month,Power,2019-11-19,F1BM,2019.11,2019-11-01,2019-11-30,EUR/MWh,720,41.19
+Phelix-DE/AT Base Month Future,German-Austrian,Base,Month,Power,2019-11-19,F1BM,2019.12,2019-12-01,2019-12-31,EUR/MWh,744,37.86
+Phelix-DE/AT Base Month Future,German-Austrian,Base,Month,Power,2019-11-19,F1BM,2020.01,2020-01-01,2020-01-31,EUR/MWh,744,44.57
+Phelix-DE/AT Base Month Future,German-Austrian,Base,Month,Power,2019-11-19,F1BM,2020.02,2020-02-01,2020-02-29,EUR/MWh,696,47.71
+Phelix-DE/AT Base Month Future,German-Austrian,Base,Month,Power,2019-11-19,F1BM,2020.03,2020-03-01,2020-03-31,EUR/MWh,743,43.55
+Phelix-DE/AT Base Month Future,German-Austrian,Base,Month,Power,2019-11-19,F1BM,2020.04,2020-04-01,2020-04-30,EUR/MWh,720,41.42
+Phelix-DE/AT Base Month Future,German-Austrian,Base,Month,Power,2019-11-19,F1BM,2020.05,2020-05-01,2020-05-31,EUR/MWh,744,40.05
+Phelix-DE/AT Base Quarter Future,German-Austrian,Base,Quarter,Power,2019-11-19,F1BQ,2020.01,2020-01-01,2020-03-31,EUR/MWh,2183,45.22
+Phelix-DE/AT Base Quarter Future,German-Austrian,Base,Quarter,Power,2019-11-19,F1BQ,2020.04,2020-04-01,2020-06-30,EUR/MWh,2184,41.36
+Phelix-DE/AT Base Quarter Future,German-Austrian,Base,Quarter,Power,2019-11-19,F1BQ,2020.07,2020-07-01,2020-09-30,EUR/MWh,2208,43.75
+Phelix-DE/AT Base Quarter Future,German-Austrian,Base,Quarter,Power,2019-11-19,F1BQ,2020.10,2020-10-01,2020-12-31,EUR/MWh,2209,50.06
+Phelix-DE/AT Base Quarter Future,German-Austrian,Base,Quarter,Power,2019-11-19,F1BQ,2021.01,2021-01-01,2021-03-31,EUR/MWh,2159,51.47
+Phelix-DE/AT Base Quarter Future,German-Austrian,Base,Quarter,Power,2019-11-19,F1BQ,2021.04,2021-04-01,2021-06-30,EUR/MWh,2184,42.26
+Phelix-DE/AT Base Quarter Future,German-Austrian,Base,Quarter,Power,2019-11-19,F1BQ,2021.07,2021-07-01,2021-09-30,EUR/MWh,2208,43.51
+Phelix-DE/AT Base Year Future,German-Austrian,Base,Year,Power,2019-11-19,F1BY,2020.01,2020-01-01,2020-12-31,EUR/MWh,8784,45.11
+Phelix-DE/AT Base Year Future,German-Austrian,Base,Year,Power,2019-11-19,F1BY,2021.01,2021-01-01,2021-12-31,EUR/MWh,8760,46.92
+Phelix-DE/AT Base Year Future,German-Austrian,Base,Year,Power,2019-11-19,F1BY,2022.01,2022-01-01,2022-12-31,EUR/MWh,8760,48.09
+Phelix-DE/AT Base Year Future,German-Austrian,Base,Year,Power,2019-11-19,F1BY,2023.01,2023-01-01,2023-12-31,EUR/MWh,8760,49.91
+Phelix-DE/AT Off-Peak Month Future,German-Austrian,Off-Peak,Month,Power,2019-11-19,F1OM,2019.11,2019-11-01,2019-11-30,EUR/MWh,468,36.06
+Phelix-DE/AT Off-Peak Month Future,German-Austrian,Off-Peak,Month,Power,2019-11-19,F1OM,2019.12,2019-12-01,2019-12-31,EUR/MWh,480,32.12
+Phelix-DE/AT Off-Peak Month Future,German-Austrian,Off-Peak,Month,Power,2019-11-19,F1OM,2020.01,2020-01-01,2020-01-31,EUR/MWh,468,38.2
+Phelix-DE/AT Off-Peak Month Future,German-Austrian,Off-Peak,Month,Power,2019-11-19,F1OM,2020.02,2020-02-01,2020-02-29,EUR/MWh,456,41.53
+Phelix-DE/AT Off-Peak Month Future,German-Austrian,Off-Peak,Month,Power,2019-11-19,F1OM,2020.03,2020-03-01,2020-03-31,EUR/MWh,479,38.56
+Phelix-DE/AT Off-Peak Month Future,German-Austrian,Off-Peak,Month,Power,2019-11-19,F1OM,2020.04,2020-04-01,2020-04-30,EUR/MWh,456,37.99
+Phelix-DE/AT Off-Peak Month Future,German-Austrian,Off-Peak,Month,Power,2019-11-19,F1OM,2020.05,2020-05-01,2020-05-31,EUR/MWh,492,37.32
+Phelix-DE/AT Off-Peak Quarter Future,German-Austrian,Off-Peak,Quarter,Power,2019-11-19,F1OQ,2020.01,2020-01-01,2020-03-31,EUR/MWh,1403,39.4
+Phelix-DE/AT Off-Peak Quarter Future,German-Austrian,Off-Peak,Quarter,Power,2019-11-19,F1OQ,2020.04,2020-04-01,2020-06-30,EUR/MWh,1404,38.25
+Phelix-DE/AT Off-Peak Quarter Future,German-Austrian,Off-Peak,Quarter,Power,2019-11-19,F1OQ,2020.07,2020-07-01,2020-09-30,EUR/MWh,1416,39.83
+Phelix-DE/AT Off-Peak Quarter Future,German-Austrian,Off-Peak,Quarter,Power,2019-11-19,F1OQ,2020.10,2020-10-01,2020-12-31,EUR/MWh,1417,43.43
+Phelix-DE/AT Off-Peak Quarter Future,German-Austrian,Off-Peak,Quarter,Power,2019-11-19,F1OQ,2021.01,2021-01-01,2021-03-31,EUR/MWh,1391,45.01
+Phelix-DE/AT Off-Peak Quarter Future,German-Austrian,Off-Peak,Quarter,Power,2019-11-19,F1OQ,2021.04,2021-04-01,2021-06-30,EUR/MWh,1404,38.59
+Phelix-DE/AT Off-Peak Quarter Future,German-Austrian,Off-Peak,Quarter,Power,2019-11-19,F1OQ,2021.07,2021-07-01,2021-09-30,EUR/MWh,1416,39.21
+Phelix-DE/AT Off-Peak Year Future,German-Austrian,Off-Peak,Year,Power,2019-11-19,F1OY,2020.01,2020-01-01,2020-12-31,EUR/MWh,5640,40.24
+Phelix-DE/AT Off-Peak Year Future,German-Austrian,Off-Peak,Year,Power,2019-11-19,F1OY,2021.01,2021-01-01,2021-12-31,EUR/MWh,5628,41.5
+Phelix-DE/AT Off-Peak Year Future,German-Austrian,Off-Peak,Year,Power,2019-11-19,F1OY,2022.01,2022-01-01,2022-12-31,EUR/MWh,5640,42.1
+Phelix-DE/AT Off-Peak Year Future,German-Austrian,Off-Peak,Year,Power,2019-11-19,F1OY,2023.01,2023-01-01,2023-12-31,EUR/MWh,5640,43.74
+Phelix-DE/AT Peak Month Future,German-Austrian,Peak,Month,Power,2019-11-19,F1PM,2019.11,2019-11-01,2019-11-29,EUR/MWh,252,50.72
+Phelix-DE/AT Peak Month Future,German-Austrian,Peak,Month,Power,2019-11-19,F1PM,2019.12,2019-12-02,2019-12-31,EUR/MWh,264,48.3
+Phelix-DE/AT Peak Month Future,German-Austrian,Peak,Month,Power,2019-11-19,F1PM,2020.01,2020-01-01,2020-01-31,EUR/MWh,276,55.37
+Phelix-DE/AT Peak Month Future,German-Austrian,Peak,Month,Power,2019-11-19,F1PM,2020.02,2020-02-03,2020-02-28,EUR/MWh,240,59.46
+Phelix-DE/AT Peak Month Future,German-Austrian,Peak,Month,Power,2019-11-19,F1PM,2020.03,2020-03-02,2020-03-31,EUR/MWh,264,52.61
+Phelix-DE/AT Peak Month Future,German-Austrian,Peak,Month,Power,2019-11-19,F1PM,2020.04,2020-04-01,2020-04-30,EUR/MWh,264,47.35
+Phelix-DE/AT Peak Month Future,German-Austrian,Peak,Month,Power,2019-11-19,F1PM,2020.05,2020-05-01,2020-05-29,EUR/MWh,252,45.38
+Phelix-DE/AT Peak Quarter Future,German-Austrian,Peak,Quarter,Power,2019-11-19,F1PQ,2020.01,2020-01-01,2020-03-31,EUR/MWh,780,55.69
+Phelix-DE/AT Peak Quarter Future,German-Austrian,Peak,Quarter,Power,2019-11-19,F1PQ,2020.04,2020-04-01,2020-06-30,EUR/MWh,780,46.95
+Phelix-DE/AT Peak Quarter Future,German-Austrian,Peak,Quarter,Power,2019-11-19,F1PQ,2020.07,2020-07-01,2020-09-30,EUR/MWh,792,50.75
+Phelix-DE/AT Peak Quarter Future,German-Austrian,Peak,Quarter,Power,2019-11-19,F1PQ,2020.10,2020-10-01,2020-12-31,EUR/MWh,792,61.92
+Phelix-DE/AT Peak Quarter Future,German-Austrian,Peak,Quarter,Power,2019-11-19,F1PQ,2021.01,2021-01-01,2021-03-31,EUR/MWh,768,63.17
+Phelix-DE/AT Peak Quarter Future,German-Austrian,Peak,Quarter,Power,2019-11-19,F1PQ,2021.04,2021-04-01,2021-06-30,EUR/MWh,780,48.87
+Phelix-DE/AT Peak Quarter Future,German-Austrian,Peak,Quarter,Power,2019-11-19,F1PQ,2021.07,2021-07-01,2021-09-30,EUR/MWh,792,51.2
+Phelix-DE/AT Peak Year Future,German-Austrian,Peak,Year,Power,2019-11-19,F1PY,2020.01,2020-01-01,2020-12-31,EUR/MWh,3144,53.85
+Phelix-DE/AT Peak Year Future,German-Austrian,Peak,Year,Power,2019-11-19,F1PY,2021.01,2021-01-01,2021-12-31,EUR/MWh,3132,56.66
+Phelix-DE/AT Peak Year Future,German-Austrian,Peak,Year,Power,2019-11-19,F1PY,2022.01,2022-01-03,2022-12-30,EUR/MWh,3120,58.91
+Phelix-DE/AT Peak Year Future,German-Austrian,Peak,Year,Power,2019-11-19,F1PY,2023.01,2023-01-02,2023-12-29,EUR/MWh,3120,61.07
+French Base Day Future             ,French,Base,Day,Power,2019-11-19,F719,2019.11,2019-11-19,2019-11-19,EUR/MWh,24,64.2
+French Base Day Future             ,French,Base,Day,Power,2019-11-19,F720,2019.11,2019-11-20,2019-11-20,EUR/MWh,24,59.37
+French Base Day Future             ,French,Base,Day,Power,2019-11-19,F721,2019.11,2019-11-21,2019-11-21,EUR/MWh,24,55
+French Base Day Future             ,French,Base,Day,Power,2019-11-19,F722,2019.11,2019-11-22,2019-11-22,EUR/MWh,24,47.44
+French Base Day Future             ,French,Base,Day,Power,2019-11-19,F723,2019.11,2019-11-23,2019-11-23,EUR/MWh,24,40.1
+French Base Day Future             ,French,Base,Day,Power,2019-11-19,F724,2019.11,2019-11-24,2019-11-24,EUR/MWh,24,36.28
+French Base Day Future             ,French,Base,Day,Power,2019-11-19,F725,2019.11,2019-11-25,2019-11-25,EUR/MWh,24,44.81
+French Base Week Future,French,Base,Week,Power,2019-11-19,F7B1,2019.11,2019-11-25,2019-12-01,EUR/MWh,168,42.84
+French Base Week Future,French,Base,Week,Power,2019-11-19,F7B2,2019.12,2019-12-02,2019-12-08,EUR/MWh,168,45.5
+French Base Week Future,French,Base,Week,Power,2019-11-19,F7B3,2019.12,2019-12-09,2019-12-15,EUR/MWh,168,50.88
+French Base Week Future,French,Base,Week,Power,2019-11-19,F7B4,2019.11,2019-11-18,2019-11-24,EUR/MWh,168,51.23
+French Base Week Future,French,Base,Week,Power,2019-11-19,F7B4,2019.12,2019-12-16,2019-12-22,EUR/MWh,168,53
+French Base Month Future,French,Base,Month,Power,2019-11-19,F7BM,2019.11,2019-11-01,2019-11-30,EUR/MWh,720,45.59
+French Base Month Future,French,Base,Month,Power,2019-11-19,F7BM,2019.12,2019-12-01,2019-12-31,EUR/MWh,744,47.59
+French Base Month Future,French,Base,Month,Power,2019-11-19,F7BM,2020.01,2020-01-01,2020-01-31,EUR/MWh,744,52.84
+French Base Month Future,French,Base,Month,Power,2019-11-19,F7BM,2020.02,2020-02-01,2020-02-29,EUR/MWh,696,56.65
+French Base Month Future,French,Base,Month,Power,2019-11-19,F7BM,2020.03,2020-03-01,2020-03-31,EUR/MWh,743,48.63
+French Base Month Future,French,Base,Month,Power,2019-11-19,F7BM,2020.04,2020-04-01,2020-04-30,EUR/MWh,720,43.83
+French Base Month Future,French,Base,Month,Power,2019-11-19,F7BM,2020.05,2020-05-01,2020-05-31,EUR/MWh,744,37.62
+French Base Quarter Future,French,Base,Quarter,Power,2019-11-19,F7BQ,2020.01,2020-01-01,2020-03-31,EUR/MWh,2183,52.62
+French Base Quarter Future,French,Base,Quarter,Power,2019-11-19,F7BQ,2020.04,2020-04-01,2020-06-30,EUR/MWh,2184,40.35
+French Base Quarter Future,French,Base,Quarter,Power,2019-11-19,F7BQ,2020.07,2020-07-01,2020-09-30,EUR/MWh,2208,41.6
+French Base Quarter Future,French,Base,Quarter,Power,2019-11-19,F7BQ,2020.10,2020-10-01,2020-12-31,EUR/MWh,2209,56.44
+French Base Quarter Future,French,Base,Quarter,Power,2019-11-19,F7BQ,2021.01,2021-01-01,2021-03-31,EUR/MWh,2159,58.43
+French Base Quarter Future,French,Base,Quarter,Power,2019-11-19,F7BQ,2021.04,2021-04-01,2021-06-30,EUR/MWh,2184,38.99
+French Base Quarter Future,French,Base,Quarter,Power,2019-11-19,F7BQ,2021.07,2021-07-01,2021-09-30,EUR/MWh,2208,40.34
+French Base Year Future,French,Base,Year,Power,2019-11-19,F7BY,2020.01,2020-01-01,2020-12-31,EUR/MWh,8784,47.76
+French Base Year Future,French,Base,Year,Power,2019-11-19,F7BY,2021.01,2021-01-01,2021-12-31,EUR/MWh,8760,47.8
+French Base Year Future,French,Base,Year,Power,2019-11-19,F7BY,2022.01,2022-01-01,2022-12-31,EUR/MWh,8760,47.26
+French Peak Week Future,French,Peak,Week,Power,2019-11-19,F7P1,2019.11,2019-11-25,2019-11-29,EUR/MWh,60,54
+French Peak Week Future,French,Peak,Week,Power,2019-11-19,F7P2,2019.12,2019-12-02,2019-12-06,EUR/MWh,60,57.78
+French Peak Week Future,French,Peak,Week,Power,2019-11-19,F7P3,2019.12,2019-12-09,2019-12-13,EUR/MWh,60,66.5
+French Peak Week Future,French,Peak,Week,Power,2019-11-19,F7P4,2019.11,2019-11-18,2019-11-22,EUR/MWh,60,64.39
+French Peak Week Future,French,Peak,Week,Power,2019-11-19,F7P4,2019.12,2019-12-16,2019-12-20,EUR/MWh,60,55.41
+French Peak Month Future,French,Peak,Month,Power,2019-11-19,F7PM,2019.11,2019-11-01,2019-11-29,EUR/MWh,252,56.52
+French Peak Month Future,French,Peak,Month,Power,2019-11-19,F7PM,2019.12,2019-12-02,2019-12-31,EUR/MWh,264,60.35
+French Peak Month Future,French,Peak,Month,Power,2019-11-19,F7PM,2020.01,2020-01-01,2020-01-31,EUR/MWh,276,67.76
+French Peak Month Future,French,Peak,Month,Power,2019-11-19,F7PM,2020.02,2020-02-03,2020-02-28,EUR/MWh,240,71.51
+French Peak Month Future,French,Peak,Month,Power,2019-11-19,F7PM,2020.03,2020-03-02,2020-03-31,EUR/MWh,264,57.37
+French Peak Quarter Future,French,Peak,Quarter,Power,2019-11-19,F7PQ,2020.01,2020-01-01,2020-03-31,EUR/MWh,780,65.4
+French Peak Quarter Future,French,Peak,Quarter,Power,2019-11-19,F7PQ,2020.04,2020-04-01,2020-06-30,EUR/MWh,780,48.47
+French Peak Quarter Future,French,Peak,Quarter,Power,2019-11-19,F7PQ,2020.07,2020-07-01,2020-09-30,EUR/MWh,792,50.23
+French Peak Quarter Future,French,Peak,Quarter,Power,2019-11-19,F7PQ,2020.10,2020-10-01,2020-12-31,EUR/MWh,792,71.93
+French Peak Quarter Future,French,Peak,Quarter,Power,2019-11-19,F7PQ,2021.01,2021-01-01,2021-03-31,EUR/MWh,768,73.37
+French Peak Quarter Future,French,Peak,Quarter,Power,2019-11-19,F7PQ,2021.04,2021-04-01,2021-06-30,EUR/MWh,780,49.18
+French Peak Quarter Future,French,Peak,Quarter,Power,2019-11-19,F7PQ,2021.07,2021-07-01,2021-09-30,EUR/MWh,792,51.12
+French Peak Year Future,French,Peak,Year,Power,2019-11-19,F7PY,2020.01,2020-01-01,2020-12-31,EUR/MWh,3144,59.02
+French Peak Year Future,French,Peak,Year,Power,2019-11-19,F7PY,2021.01,2021-01-01,2021-12-31,EUR/MWh,3132,61.25
+French Peak Year Future,French,Peak,Year,Power,2019-11-19,F7PY,2022.01,2022-01-03,2022-12-30,EUR/MWh,3120,61.73
+French Peak Year Future,French,Peak,Year,Power,2019-11-19,F7PY,2023.01,2023-01-02,2023-12-29,EUR/MWh,3120,62.32
+French Base Weekend Future      ,French,Base,Weekend,Power,2019-11-19,F7W4,2019.11,2019-11-23,2019-11-24,EUR/MWh,48,38.19
+PXE Hungarian Base Day Future,Hungarian,Base,Day,Power,2019-11-19,F919,2019.11,2019-11-19,2019-11-19,EUR/MWh,24,47.54
+PXE Hungarian Base Day Future,Hungarian,Base,Day,Power,2019-11-19,F920,2019.11,2019-11-20,2019-11-20,EUR/MWh,24,56.1
+PXE Hungarian Base Day Future,Hungarian,Base,Day,Power,2019-11-19,F921,2019.11,2019-11-21,2019-11-21,EUR/MWh,24,50.17
+PXE Hungarian Base Day Future,Hungarian,Base,Day,Power,2019-11-19,F922,2019.11,2019-11-22,2019-11-22,EUR/MWh,24,48.69
+PXE Hungarian Base Day Future,Hungarian,Base,Day,Power,2019-11-19,F923,2019.11,2019-11-23,2019-11-23,EUR/MWh,24,43
+PXE Hungarian Base Day Future,Hungarian,Base,Day,Power,2019-11-19,F924,2019.11,2019-11-24,2019-11-24,EUR/MWh,24,33.04
+PXE Hungarian Base Day Future,Hungarian,Base,Day,Power,2019-11-19,F925,2019.11,2019-11-25,2019-11-25,EUR/MWh,24,44.77
+PXE Hungarian Base Week Future,Hungarian,Base,Week,Power,2019-11-19,F9B1,2019.11,2019-11-25,2019-12-01,EUR/MWh,168,44.63
+PXE Hungarian Base Week Future,Hungarian,Base,Week,Power,2019-11-19,F9B2,2019.12,2019-12-02,2019-12-08,EUR/MWh,168,48.18
+PXE Hungarian Base Week Future,Hungarian,Base,Week,Power,2019-11-19,F9B3,2019.12,2019-12-09,2019-12-15,EUR/MWh,168,51.53
+PXE Hungarian Base Week Future,Hungarian,Base,Week,Power,2019-11-19,F9B4,2019.11,2019-11-18,2019-11-24,EUR/MWh,168,46.76
+PXE Hungarian Base Week Future,Hungarian,Base,Week,Power,2019-11-19,F9B4,2019.12,2019-12-16,2019-12-22,EUR/MWh,168,51.31
+PXE Hungarian Base Month Future,Hungarian,Base,Month,Power,2019-11-19,F9BM,2019.11,2019-11-01,2019-11-30,EUR/MWh,720,44.65
+PXE Hungarian Base Month Future,Hungarian,Base,Month,Power,2019-11-19,F9BM,2019.12,2019-12-01,2019-12-31,EUR/MWh,744,49.12
+PXE Hungarian Base Month Future,Hungarian,Base,Month,Power,2019-11-19,F9BM,2020.01,2020-01-01,2020-01-31,EUR/MWh,744,61.95
+PXE Hungarian Base Month Future,Hungarian,Base,Month,Power,2019-11-19,F9BM,2020.02,2020-02-01,2020-02-29,EUR/MWh,696,62.75
+PXE Hungarian Base Month Future,Hungarian,Base,Month,Power,2019-11-19,F9BM,2020.03,2020-03-01,2020-03-31,EUR/MWh,743,52.01
+PXE Hungarian Base Month Future,Hungarian,Base,Month,Power,2019-11-19,F9BM,2020.04,2020-04-01,2020-04-30,EUR/MWh,720,48.29
+PXE Hungarian Base Month Future,Hungarian,Base,Month,Power,2019-11-19,F9BM,2020.05,2020-05-01,2020-05-31,EUR/MWh,744,50.19
+PXE Hungarian Base Quarter Future,Hungarian,Base,Quarter,Power,2019-11-19,F9BQ,2020.01,2020-01-01,2020-03-31,EUR/MWh,2183,58.82
+PXE Hungarian Base Quarter Future,Hungarian,Base,Quarter,Power,2019-11-19,F9BQ,2020.04,2020-04-01,2020-06-30,EUR/MWh,2184,50.54
+PXE Hungarian Base Quarter Future,Hungarian,Base,Quarter,Power,2019-11-19,F9BQ,2020.07,2020-07-01,2020-09-30,EUR/MWh,2208,57.96
+PXE Hungarian Base Quarter Future,Hungarian,Base,Quarter,Power,2019-11-19,F9BQ,2020.10,2020-10-01,2020-12-31,EUR/MWh,2209,60.28
+PXE Hungarian Base Year Future,Hungarian,Base,Year,Power,2019-11-19,F9BY,2020.01,2020-01-01,2020-12-31,EUR/MWh,8784,56.91
+PXE Hungarian Base Year Future,Hungarian,Base,Year,Power,2019-11-19,F9BY,2021.01,2021-01-01,2021-12-31,EUR/MWh,8760,56.2
+PXE Hungarian Base Year Future,Hungarian,Base,Year,Power,2019-11-19,F9BY,2022.01,2022-01-01,2022-12-31,EUR/MWh,8760,54.98
+PXE Hungarian Peak Week Future,Hungarian,Peak,Week,Power,2019-11-19,F9P1,2019.11,2019-11-25,2019-11-29,EUR/MWh,60,53.24
+PXE Hungarian Peak Week Future,Hungarian,Peak,Week,Power,2019-11-19,F9P2,2019.12,2019-12-02,2019-12-06,EUR/MWh,60,56.88
+PXE Hungarian Peak Week Future,Hungarian,Peak,Week,Power,2019-11-19,F9P3,2019.12,2019-12-09,2019-12-13,EUR/MWh,60,61.5
+PXE Hungarian Peak Week Future,Hungarian,Peak,Week,Power,2019-11-19,F9P4,2019.11,2019-11-18,2019-11-22,EUR/MWh,60,60.97
+PXE Hungarian Peak Week Future,Hungarian,Peak,Week,Power,2019-11-19,F9P4,2019.12,2019-12-16,2019-12-20,EUR/MWh,60,62.66
+PXE Hungarian Peak Month Future,Hungarian,Peak,Month,Power,2019-11-19,F9PM,2019.11,2019-11-01,2019-11-29,EUR/MWh,252,55.7
+PXE Hungarian Peak Month Future,Hungarian,Peak,Month,Power,2019-11-19,F9PM,2019.12,2019-12-02,2019-12-31,EUR/MWh,264,59.52
+PXE Hungarian Peak Month Future,Hungarian,Peak,Month,Power,2019-11-19,F9PM,2020.01,2020-01-01,2020-01-31,EUR/MWh,276,73.96
+PXE Hungarian Peak Month Future,Hungarian,Peak,Month,Power,2019-11-19,F9PM,2020.02,2020-02-03,2020-02-28,EUR/MWh,240,75.84
+PXE Hungarian Peak Month Future,Hungarian,Peak,Month,Power,2019-11-19,F9PM,2020.03,2020-03-02,2020-03-31,EUR/MWh,264,60.8
+PXE Hungarian Peak Month Future,Hungarian,Peak,Month,Power,2019-11-19,F9PM,2020.04,2020-04-01,2020-04-30,EUR/MWh,264,58.53
+PXE Hungarian Peak Month Future,Hungarian,Peak,Month,Power,2019-11-19,F9PM,2020.05,2020-05-01,2020-05-29,EUR/MWh,252,59.59
+PXE Hungarian Peak Quarter Future,Hungarian,Peak,Quarter,Power,2019-11-19,F9PQ,2020.01,2020-01-01,2020-03-31,EUR/MWh,780,70.08
+PXE Hungarian Peak Quarter Future,Hungarian,Peak,Quarter,Power,2019-11-19,F9PQ,2020.04,2020-04-01,2020-06-30,EUR/MWh,780,59.86
+PXE Hungarian Peak Quarter Future,Hungarian,Peak,Quarter,Power,2019-11-19,F9PQ,2020.07,2020-07-01,2020-09-30,EUR/MWh,792,66.9
+PXE Hungarian Peak Quarter Future,Hungarian,Peak,Quarter,Power,2019-11-19,F9PQ,2020.10,2020-10-01,2020-12-31,EUR/MWh,792,75.3
+PXE Hungarian Peak Year Future,Hungarian,Peak,Year,Power,2019-11-19,F9PY,2020.01,2020-01-01,2020-12-31,EUR/MWh,3144,68.06
+PXE Hungarian Peak Year Future,Hungarian,Peak,Year,Power,2019-11-19,F9PY,2021.01,2021-01-01,2021-12-31,EUR/MWh,3132,66.75
+PXE Hungarian Peak Year Future,Hungarian,Peak,Year,Power,2019-11-19,F9PY,2022.01,2022-01-03,2022-12-30,EUR/MWh,3120,67.24
+Nordic Base Week Future,Nordic,Base,Week,Power,2019-11-19,FBB1,2019.11,2019-11-25,2019-12-01,EUR/MWh,168,40.1
+Nordic Base Week Future,Nordic,Base,Week,Power,2019-11-19,FBB2,2019.12,2019-12-02,2019-12-08,EUR/MWh,168,40.55
+Nordic Base Week Future,Nordic,Base,Week,Power,2019-11-19,FBB3,2019.12,2019-12-09,2019-12-15,EUR/MWh,168,40.65
+Nordic Base Week Future,Nordic,Base,Week,Power,2019-11-19,FBB4,2019.11,2019-11-18,2019-11-24,EUR/MWh,168,41.24
+Nordic Base Week Future,Nordic,Base,Week,Power,2019-11-19,FBB4,2019.12,2019-12-16,2019-12-22,EUR/MWh,168,40.63
+Nordic Base Month Future,Nordic,Base,Month,Power,2019-11-19,FBBM,2019.11,2019-11-01,2019-11-30,EUR/MWh,720,41.89
+Nordic Base Month Future,Nordic,Base,Month,Power,2019-11-19,FBBM,2019.12,2019-12-01,2019-12-31,EUR/MWh,744,39.95
+Nordic Base Month Future,Nordic,Base,Month,Power,2019-11-19,FBBM,2020.01,2020-01-01,2020-01-31,EUR/MWh,744,42.6
+Nordic Base Quarter Future,Nordic,Base,Quarter,Power,2019-11-19,FBBQ,2020.01,2020-01-01,2020-03-31,EUR/MWh,2183,42.3
+Nordic Base Quarter Future,Nordic,Base,Quarter,Power,2019-11-19,FBBQ,2020.04,2020-04-01,2020-06-30,EUR/MWh,2184,35.2
+Nordic Base Year Future,Nordic,Base,Year,Power,2019-11-19,FBBY,2020.01,2020-01-01,2020-12-31,EUR/MWh,8784,37
+Nordic Base Year Future,Nordic,Base,Year,Power,2019-11-19,FBBY,2021.01,2021-01-01,2021-12-31,EUR/MWh,8760,34.4
+Swiss Base Day Future,Swiss,Base,Day,Power,2019-11-19,FC19,2019.11,2019-11-19,2019-11-19,EUR/MWh,24,58.14
+Swiss Base Day Future,Swiss,Base,Day,Power,2019-11-19,FC20,2019.11,2019-11-20,2019-11-20,EUR/MWh,24,60.15
+Swiss Base Day Future,Swiss,Base,Day,Power,2019-11-19,FC21,2019.11,2019-11-21,2019-11-21,EUR/MWh,24,54.5
+Swiss Base Day Future,Swiss,Base,Day,Power,2019-11-19,FC22,2019.11,2019-11-22,2019-11-22,EUR/MWh,24,50
+Swiss Base Day Future,Swiss,Base,Day,Power,2019-11-19,FC23,2019.11,2019-11-23,2019-11-23,EUR/MWh,24,41.36
+Swiss Base Day Future,Swiss,Base,Day,Power,2019-11-19,FC24,2019.11,2019-11-24,2019-11-24,EUR/MWh,24,37.12
+Swiss Base Day Future,Swiss,Base,Day,Power,2019-11-19,FC25,2019.11,2019-11-25,2019-11-25,EUR/MWh,24,48.48
+Swiss Base Day Future,Swiss,Base,Day,Power,2019-11-19,FC26,2019.11,2019-11-26,2019-11-26,EUR/MWh,24,48.52
+Swiss Base Week Future,Swiss,Base,Week,Power,2019-11-19,FCB1,2019.11,2019-11-25,2019-12-01,EUR/MWh,168,44.1
+Swiss Base Week Future,Swiss,Base,Week,Power,2019-11-19,FCB2,2019.12,2019-12-02,2019-12-08,EUR/MWh,168,46.8
+Swiss Base Week Future,Swiss,Base,Week,Power,2019-11-19,FCB3,2019.12,2019-12-09,2019-12-15,EUR/MWh,168,51.89
+Swiss Base Week Future,Swiss,Base,Week,Power,2019-11-19,FCB4,2019.11,2019-11-18,2019-11-24,EUR/MWh,168,50.67
+Swiss Base Week Future,Swiss,Base,Week,Power,2019-11-19,FCB4,2019.12,2019-12-16,2019-12-22,EUR/MWh,168,51.1
+Swiss Base Month Future,Swiss,Base,Month,Power,2019-11-19,FCBM,2019.11,2019-11-01,2019-11-30,EUR/MWh,720,45.63
+Swiss Base Month Future,Swiss,Base,Month,Power,2019-11-19,FCBM,2019.12,2019-12-01,2019-12-31,EUR/MWh,744,47.93
+Swiss Base Month Future,Swiss,Base,Month,Power,2019-11-19,FCBM,2020.01,2020-01-01,2020-01-31,EUR/MWh,744,53.64
+Swiss Base Quarter Future,Swiss,Base,Quarter,Power,2019-11-19,FCBQ,2020.01,2020-01-01,2020-03-31,EUR/MWh,2183,52.8
+Swiss Base Quarter Future,Swiss,Base,Quarter,Power,2019-11-19,FCBQ,2020.04,2020-04-01,2020-06-30,EUR/MWh,2184,41.5
+Swiss Base Quarter Future,Swiss,Base,Quarter,Power,2019-11-19,FCBQ,2020.07,2020-07-01,2020-09-30,EUR/MWh,2208,43.08
+Swiss Base Year Future,Swiss,Base,Year,Power,2019-11-19,FCBY,2020.01,2020-01-01,2020-12-31,EUR/MWh,8784,49.02
+Swiss Base Year Future,Swiss,Base,Year,Power,2019-11-19,FCBY,2021.01,2021-01-01,2021-12-31,EUR/MWh,8760,50.2
+Swiss Base Year Future,Swiss,Base,Year,Power,2019-11-19,FCBY,2022.01,2022-01-01,2022-12-31,EUR/MWh,8760,50.5
+Swiss Base Weekend Future,Swiss,Base,Weekend,Power,2019-11-19,FCW4,2019.11,2019-11-23,2019-11-24,EUR/MWh,48,39.24
+Italian Base Day Future,Italian,Base,Day,Power,2019-11-19,FD19,2019.11,2019-11-19,2019-11-19,EUR/MWh,24,60.95
+Italian Base Day Future,Italian,Base,Day,Power,2019-11-19,FD20,2019.11,2019-11-20,2019-11-20,EUR/MWh,24,57.92
+Italian Base Day Future,Italian,Base,Day,Power,2019-11-19,FD21,2019.11,2019-11-21,2019-11-21,EUR/MWh,24,55.95
+Italian Base Day Future,Italian,Base,Day,Power,2019-11-19,FD22,2019.11,2019-11-22,2019-11-22,EUR/MWh,24,51.38
+Italian Base Day Future,Italian,Base,Day,Power,2019-11-19,FD23,2019.11,2019-11-23,2019-11-23,EUR/MWh,24,42.89
+Italian Base Day Future,Italian,Base,Day,Power,2019-11-19,FD24,2019.11,2019-11-24,2019-11-24,EUR/MWh,24,39.57
+Italian Base Day Future,Italian,Base,Day,Power,2019-11-19,FD25,2019.11,2019-11-25,2019-11-25,EUR/MWh,24,49.6
+Italian Base Week Future,Italian,Base,Week,Power,2019-11-19,FDB1,2019.11,2019-11-25,2019-12-01,EUR/MWh,168,47.03
+Italian Base Week Future,Italian,Base,Week,Power,2019-11-19,FDB2,2019.12,2019-12-02,2019-12-08,EUR/MWh,168,49.63
+Italian Base Week Future,Italian,Base,Week,Power,2019-11-19,FDB3,2019.12,2019-12-09,2019-12-15,EUR/MWh,168,53.8
+Italian Base Week Future,Italian,Base,Week,Power,2019-11-19,FDB4,2019.11,2019-11-18,2019-11-24,EUR/MWh,168,52.17
+Italian Base Week Future,Italian,Base,Week,Power,2019-11-19,FDB4,2019.12,2019-12-16,2019-12-22,EUR/MWh,168,54.5
+Italian Base Month Future,Italian,Base,Month,Power,2019-11-19,FDBM,2019.11,2019-11-01,2019-11-30,EUR/MWh,720,47.52
+Italian Base Month Future,Italian,Base,Month,Power,2019-11-19,FDBM,2019.12,2019-12-01,2019-12-31,EUR/MWh,744,51.16
+Italian Base Month Future,Italian,Base,Month,Power,2019-11-19,FDBM,2020.01,2020-01-01,2020-01-31,EUR/MWh,744,56.03
+Italian Base Month Future,Italian,Base,Month,Power,2019-11-19,FDBM,2020.02,2020-02-01,2020-02-29,EUR/MWh,696,58.49
+Italian Base Month Future,Italian,Base,Month,Power,2019-11-19,FDBM,2020.03,2020-03-01,2020-03-31,EUR/MWh,743,54.6
+Italian Base Month Future,Italian,Base,Month,Power,2019-11-19,FDBM,2020.04,2020-04-01,2020-04-30,EUR/MWh,720,49.94
+Italian Base Month Future,Italian,Base,Month,Power,2019-11-19,FDBM,2020.05,2020-05-01,2020-05-31,EUR/MWh,744,49.84
+Italian Base Quarter Future,Italian,Base,Quarter,Power,2019-11-19,FDBQ,2020.01,2020-01-01,2020-03-31,EUR/MWh,2183,56.33
+Italian Base Quarter Future,Italian,Base,Quarter,Power,2019-11-19,FDBQ,2020.04,2020-04-01,2020-06-30,EUR/MWh,2184,51.08
+Italian Base Quarter Future,Italian,Base,Quarter,Power,2019-11-19,FDBQ,2020.07,2020-07-01,2020-09-30,EUR/MWh,2208,56.29
+Italian Base Quarter Future,Italian,Base,Quarter,Power,2019-11-19,FDBQ,2020.10,2020-10-01,2020-12-31,EUR/MWh,2209,60.24
+Italian Base Quarter Future,Italian,Base,Quarter,Power,2019-11-19,FDBQ,2021.01,2021-01-01,2021-03-31,EUR/MWh,2159,61.96
+Italian Base Quarter Future,Italian,Base,Quarter,Power,2019-11-19,FDBQ,2021.04,2021-04-01,2021-06-30,EUR/MWh,2184,52.81
+Italian Base Year Future,Italian,Base,Year,Power,2019-11-19,FDBY,2020.01,2020-01-01,2020-12-31,EUR/MWh,8784,56
+Italian Base Year Future,Italian,Base,Year,Power,2019-11-19,FDBY,2021.01,2021-01-01,2021-12-31,EUR/MWh,8760,56.93
+Italian Base Year Future,Italian,Base,Year,Power,2019-11-19,FDBY,2022.01,2022-01-01,2022-12-31,EUR/MWh,8760,55.68
+Italian Base Year Future,Italian,Base,Year,Power,2019-11-19,FDBY,2023.01,2023-01-01,2023-12-31,EUR/MWh,8760,56
+Italian Base Year Future,Italian,Base,Year,Power,2019-11-19,FDBY,2024.01,2024-01-01,2024-12-31,EUR/MWh,8784,56.3
+Italian Base Year Future,Italian,Base,Year,Power,2019-11-19,FDBY,2025.01,2025-01-01,2025-12-31,EUR/MWh,8760,56.9
+Italian Peak Week Future,Italian,Peak,Week,Power,2019-11-19,FDP1,2019.11,2019-11-25,2019-11-29,EUR/MWh,60,54.25
+Italian Peak Week Future,Italian,Peak,Week,Power,2019-11-19,FDP2,2019.12,2019-12-02,2019-12-06,EUR/MWh,60,58.47
+Italian Peak Week Future,Italian,Peak,Week,Power,2019-11-19,FDP3,2019.12,2019-12-09,2019-12-13,EUR/MWh,60,64.71
+Italian Peak Week Future,Italian,Peak,Week,Power,2019-11-19,FDP4,2019.11,2019-11-18,2019-11-22,EUR/MWh,60,64.45
+Italian Peak Week Future,Italian,Peak,Week,Power,2019-11-19,FDP4,2019.12,2019-12-16,2019-12-20,EUR/MWh,60,66.35
+Italian Peak Month Future,Italian,Peak,Month,Power,2019-11-19,FDPM,2019.11,2019-11-01,2019-11-29,EUR/MWh,252,56.93
+Italian Peak Month Future,Italian,Peak,Month,Power,2019-11-19,FDPM,2019.12,2019-12-02,2019-12-31,EUR/MWh,264,60.05
+Italian Peak Month Future,Italian,Peak,Month,Power,2019-11-19,FDPM,2020.01,2020-01-01,2020-01-31,EUR/MWh,276,64.13
+Italian Peak Month Future,Italian,Peak,Month,Power,2019-11-19,FDPM,2020.02,2020-02-03,2020-02-28,EUR/MWh,240,67.16
+Italian Peak Month Future,Italian,Peak,Month,Power,2019-11-19,FDPM,2020.03,2020-03-02,2020-03-31,EUR/MWh,264,60.34
+Italian Peak Quarter Future,Italian,Peak,Quarter,Power,2019-11-19,FDPQ,2020.01,2020-01-01,2020-03-31,EUR/MWh,780,63.78
+Italian Peak Quarter Future,Italian,Peak,Quarter,Power,2019-11-19,FDPQ,2020.04,2020-04-01,2020-06-30,EUR/MWh,780,55.19
+Italian Peak Quarter Future,Italian,Peak,Quarter,Power,2019-11-19,FDPQ,2020.07,2020-07-01,2020-09-30,EUR/MWh,792,61.48
+Italian Peak Quarter Future,Italian,Peak,Quarter,Power,2019-11-19,FDPQ,2020.10,2020-10-01,2020-12-31,EUR/MWh,792,69.07
+Italian Peak Quarter Future,Italian,Peak,Quarter,Power,2019-11-19,FDPQ,2021.01,2021-01-01,2021-03-31,EUR/MWh,768,70.03
+Italian Peak Year Future,Italian,Peak,Year,Power,2019-11-19,FDPY,2020.01,2020-01-01,2020-12-31,EUR/MWh,3144,62.4
+Italian Peak Year Future,Italian,Peak,Year,Power,2019-11-19,FDPY,2021.01,2021-01-01,2021-12-31,EUR/MWh,3132,63.24
+Italian Base Weekend Future        ,Italian,Base,Weekend,Power,2019-11-19,FDW4,2019.11,2019-11-23,2019-11-24,EUR/MWh,48,41.23
+Spanish Base Day Future            ,Spanish,Base,Day,Power,2019-11-19,FE19,2019.11,2019-11-19,2019-11-19,EUR/MWh,24,57.49
+Spanish Base Day Future            ,Spanish,Base,Day,Power,2019-11-19,FE20,2019.11,2019-11-20,2019-11-20,EUR/MWh,24,57.85
+Spanish Base Day Future            ,Spanish,Base,Day,Power,2019-11-19,FE21,2019.11,2019-11-21,2019-11-21,EUR/MWh,24,54.5
+Spanish Base Day Future            ,Spanish,Base,Day,Power,2019-11-19,FE22,2019.11,2019-11-22,2019-11-22,EUR/MWh,24,48.58
+Spanish Base Day Future            ,Spanish,Base,Day,Power,2019-11-19,FE23,2019.11,2019-11-23,2019-11-23,EUR/MWh,24,38.94
+Spanish Base Day Future            ,Spanish,Base,Day,Power,2019-11-19,FE24,2019.11,2019-11-24,2019-11-24,EUR/MWh,24,37.42
+Spanish Base Day Future            ,Spanish,Base,Day,Power,2019-11-19,FE25,2019.11,2019-11-25,2019-11-25,EUR/MWh,24,47.5
+Spanish Base Day Future            ,Spanish,Base,Day,Power,2019-11-19,FE26,2019.11,2019-11-26,2019-11-26,EUR/MWh,24,48.48
+Spanish Base Week Future,Spanish,Base,Week,Power,2019-11-19,FEB1,2019.11,2019-11-25,2019-12-01,EUR/MWh,168,46.19
+Spanish Base Week Future,Spanish,Base,Week,Power,2019-11-19,FEB2,2019.12,2019-12-02,2019-12-08,EUR/MWh,168,47.99
+Spanish Base Week Future,Spanish,Base,Week,Power,2019-11-19,FEB3,2019.12,2019-12-09,2019-12-15,EUR/MWh,168,49.5
+Spanish Base Week Future,Spanish,Base,Week,Power,2019-11-19,FEB4,2019.11,2019-11-18,2019-11-24,EUR/MWh,168,49.26
+Spanish Base Week Future,Spanish,Base,Week,Power,2019-11-19,FEB4,2019.12,2019-12-16,2019-12-22,EUR/MWh,168,50.99
+Spanish Base Month Future,Spanish,Base,Month,Power,2019-11-19,FEBM,2019.11,2019-11-01,2019-11-30,EUR/MWh,720,42.83
+Spanish Base Month Future,Spanish,Base,Month,Power,2019-11-19,FEBM,2019.12,2019-12-01,2019-12-31,EUR/MWh,744,48.2
+Spanish Base Month Future,Spanish,Base,Month,Power,2019-11-19,FEBM,2020.01,2020-01-01,2020-01-31,EUR/MWh,744,51.91
+Spanish Base Month Future,Spanish,Base,Month,Power,2019-11-19,FEBM,2020.02,2020-02-01,2020-02-29,EUR/MWh,696,53.07
+Spanish Base Month Future,Spanish,Base,Month,Power,2019-11-19,FEBM,2020.03,2020-03-01,2020-03-31,EUR/MWh,743,47.86
+Spanish Base Month Future,Spanish,Base,Month,Power,2019-11-19,FEBM,2020.04,2020-04-01,2020-04-30,EUR/MWh,720,45.85
+Spanish Base Month Future,Spanish,Base,Month,Power,2019-11-19,FEBM,2020.05,2020-05-01,2020-05-31,EUR/MWh,744,46.9
+Spanish Base Quarter Future,Spanish,Base,Quarter,Power,2019-11-19,FEBQ,2020.01,2020-01-01,2020-03-31,EUR/MWh,2183,50.9
+Spanish Base Quarter Future,Spanish,Base,Quarter,Power,2019-11-19,FEBQ,2020.04,2020-04-01,2020-06-30,EUR/MWh,2184,47.85
+Spanish Base Quarter Future,Spanish,Base,Quarter,Power,2019-11-19,FEBQ,2020.07,2020-07-01,2020-09-30,EUR/MWh,2208,51.83
+Spanish Base Quarter Future,Spanish,Base,Quarter,Power,2019-11-19,FEBQ,2020.10,2020-10-01,2020-12-31,EUR/MWh,2209,55.77
+Spanish Base Year Future,Spanish,Base,Year,Power,2019-11-19,FEBY,2020.01,2020-01-01,2020-12-31,EUR/MWh,8784,51.6
+Spanish Base Year Future,Spanish,Base,Year,Power,2019-11-19,FEBY,2021.01,2021-01-01,2021-12-31,EUR/MWh,8760,50.9
+Spanish Base Year Future,Spanish,Base,Year,Power,2019-11-19,FEBY,2022.01,2022-01-01,2022-12-31,EUR/MWh,8760,47.5
+Spanish Base Year Future,Spanish,Base,Year,Power,2019-11-19,FEBY,2023.01,2023-01-01,2023-12-31,EUR/MWh,8760,46.3
+Spanish Base Year Future,Spanish,Base,Year,Power,2019-11-19,FEBY,2024.01,2024-01-01,2024-12-31,EUR/MWh,8784,45
+Spanish Base Year Future,Spanish,Base,Year,Power,2019-11-19,FEBY,2025.01,2025-01-01,2025-12-31,EUR/MWh,8760,43
+Spanish Base Weekend Future      ,Spanish,Base,Weekend,Power,2019-11-19,FEW4,2019.11,2019-11-23,2019-11-24,EUR/MWh,48,38.18
+Greek Base Month Future,Greek,Base,Month,Power,2019-11-19,FFBM,2019.11,2019-11-01,2019-11-30,EUR/MWh,720,58.9
+Greek Base Month Future,Greek,Base,Month,Power,2019-11-19,FFBM,2019.12,2019-12-01,2019-12-31,EUR/MWh,744,58.5
+Greek Base Month Future,Greek,Base,Month,Power,2019-11-19,FFBM,2020.01,2020-01-01,2020-01-31,EUR/MWh,744,64
+Greek Base Quarter Future,Greek,Base,Quarter,Power,2019-11-19,FFBQ,2020.01,2020-01-01,2020-03-31,EUR/MWh,2183,61.5
+Greek Base Quarter Future,Greek,Base,Quarter,Power,2019-11-19,FFBQ,2020.04,2020-04-01,2020-06-30,EUR/MWh,2184,60
+Greek Base Year Future,Greek,Base,Year,Power,2019-11-19,FFBY,2020.01,2020-01-01,2020-12-31,EUR/MWh,8784,62.5
+PXE Romanian Base Week Future,Romanian,Base,Week,Power,2019-11-19,FHB1,2019.11,2019-11-25,2019-12-01,EUR/MWh,168,45.63
+PXE Romanian Base Week Future,Romanian,Base,Week,Power,2019-11-19,FHB2,2019.12,2019-12-02,2019-12-08,EUR/MWh,168,49.18
+PXE Romanian Base Week Future,Romanian,Base,Week,Power,2019-11-19,FHB3,2019.12,2019-12-09,2019-12-15,EUR/MWh,168,52.53
+PXE Romanian Base Week Future,Romanian,Base,Week,Power,2019-11-19,FHB4,2019.11,2019-11-18,2019-11-24,EUR/MWh,168,48.18
+PXE Romanian Base Week Future,Romanian,Base,Week,Power,2019-11-19,FHB4,2019.12,2019-12-16,2019-12-22,EUR/MWh,168,51.06
+PXE Romanian Base Month Future,Romanian,Base,Month,Power,2019-11-19,FHBM,2019.11,2019-11-01,2019-11-30,EUR/MWh,720,44.79
+PXE Romanian Base Month Future,Romanian,Base,Month,Power,2019-11-19,FHBM,2019.12,2019-12-01,2019-12-31,EUR/MWh,744,49.52
+PXE Romanian Base Month Future,Romanian,Base,Month,Power,2019-11-19,FHBM,2020.01,2020-01-01,2020-01-31,EUR/MWh,744,65.95
+PXE Romanian Base Month Future,Romanian,Base,Month,Power,2019-11-19,FHBM,2020.02,2020-02-01,2020-02-29,EUR/MWh,696,64.55
+PXE Romanian Base Month Future,Romanian,Base,Month,Power,2019-11-19,FHBM,2020.03,2020-03-01,2020-03-31,EUR/MWh,743,53.22
+PXE Romanian Base Quarter Future,Romanian,Base,Quarter,Power,2019-11-19,FHBQ,2020.01,2020-01-01,2020-03-31,EUR/MWh,2183,61.17
+PXE Romanian Base Quarter Future,Romanian,Base,Quarter,Power,2019-11-19,FHBQ,2020.04,2020-04-01,2020-06-30,EUR/MWh,2184,51.39
+PXE Romanian Base Year Future,Romanian,Base,Year,Power,2019-11-19,FHBY,2020.01,2020-01-01,2020-12-31,EUR/MWh,8784,58.06
+PXE Romanian Base Year Future,Romanian,Base,Year,Power,2019-11-19,FHBY,2021.01,2021-01-01,2021-12-31,EUR/MWh,8760,56.8
+PXE Romanian Base Year Future,Romanian,Base,Year,Power,2019-11-19,FHBY,2022.01,2022-01-01,2022-12-31,EUR/MWh,8760,54.98
+PXE Romanian Base Year Future,Romanian,Base,Year,Power,2019-11-19,FHBY,2023.01,2023-01-01,2023-12-31,EUR/MWh,8760,56.95
+null,null,null,null,null,2019-11-19,FKB1,2019.11,2019-11-25,2019-12-01,EUR/MWh,168,44.63
+null,null,null,null,null,2019-11-19,FKB2,2019.12,2019-12-02,2019-12-08,EUR/MWh,168,48.18
+null,null,null,null,null,2019-11-19,FKB3,2019.12,2019-12-09,2019-12-15,EUR/MWh,168,51.53
+null,null,null,null,null,2019-11-19,FKB4,2019.11,2019-11-18,2019-11-24,EUR/MWh,168,46.16
+null,null,null,null,null,2019-11-19,FKB4,2019.12,2019-12-16,2019-12-22,EUR/MWh,168,51.31
+null,null,null,null,null,2019-11-19,FKBM,2019.11,2019-11-01,2019-11-30,EUR/MWh,720,42.84
+null,null,null,null,null,2019-11-19,FKBM,2019.12,2019-12-01,2019-12-31,EUR/MWh,744,49.12
+null,null,null,null,null,2019-11-19,FKBQ,2020.01,2020-01-01,2020-03-31,EUR/MWh,2183,58.82
+null,null,null,null,null,2019-11-19,FKBY,2020.01,2020-01-01,2020-12-31,EUR/MWh,8784,56.81
+PXE Polish Base Month Future,Polish,Base,Month,Power,2019-11-19,FPBM,2019.11,2019-11-01,2019-11-30,EUR/MWh,720,51.93
+PXE Polish Base Month Future,Polish,Base,Month,Power,2019-11-19,FPBM,2019.12,2019-12-01,2019-12-31,EUR/MWh,744,48.65
+PXE Polish Base Quarter Future,Polish,Base,Quarter,Power,2019-11-19,FPBQ,2020.01,2020-01-01,2020-03-31,EUR/MWh,2183,56.23
+PXE Polish Base Year Future,Polish,Base,Year,Power,2019-11-19,FPBY,2020.01,2020-01-01,2020-12-31,EUR/MWh,8784,58.52
+PXE Polish Peak Month Future,Polish,Peak,Month,Power,2019-11-19,FPPM,2019.11,2019-11-01,2019-11-29,EUR/MWh,252,59.68
+PXE Polish Peak Month Future,Polish,Peak,Month,Power,2019-11-19,FPPM,2019.12,2019-12-02,2019-12-31,EUR/MWh,264,58.26
+PXE Polish Peak Quarter Future,Polish,Peak,Quarter,Power,2019-11-19,FPPQ,2020.01,2020-01-01,2020-03-31,EUR/MWh,780,65.98
+PXE Polish Peak Year Future,Polish,Peak,Year,Power,2019-11-19,FPPY,2020.01,2020-01-01,2020-12-31,EUR/MWh,3144,69.09
+PXE Romanian Peak Week Future,Romanian,Peak,Week,Power,2019-11-19,FRP1,2019.11,2019-11-25,2019-11-29,EUR/MWh,60,54.24
+PXE Romanian Peak Week Future,Romanian,Peak,Week,Power,2019-11-19,FRP2,2019.12,2019-12-02,2019-12-06,EUR/MWh,60,57.88
+PXE Romanian Peak Week Future,Romanian,Peak,Week,Power,2019-11-19,FRP3,2019.12,2019-12-09,2019-12-13,EUR/MWh,60,62.5
+PXE Romanian Peak Week Future,Romanian,Peak,Week,Power,2019-11-19,FRP4,2019.11,2019-11-18,2019-11-22,EUR/MWh,60,60.67
+PXE Romanian Peak Week Future,Romanian,Peak,Week,Power,2019-11-19,FRP4,2019.12,2019-12-16,2019-12-20,EUR/MWh,60,63.29
+PXE Romanian Peak Month Future,Romanian,Peak,Month,Power,2019-11-19,FRPM,2019.11,2019-11-01,2019-11-29,EUR/MWh,252,56.89
+PXE Romanian Peak Month Future,Romanian,Peak,Month,Power,2019-11-19,FRPM,2019.12,2019-12-02,2019-12-31,EUR/MWh,264,59.92
+PXE Romanian Peak Quarter Future,Romanian,Peak,Quarter,Power,2019-11-19,FRPQ,2020.01,2020-01-01,2020-03-31,EUR/MWh,780,72.43
+PXE Romanian Peak Year Future,Romanian,Peak,Year,Power,2019-11-19,FRPY,2020.01,2020-01-01,2020-12-31,EUR/MWh,3144,69.22
+UK Power Base Day 19   ,UK,Base,Day,Power,2019-11-19,FU19,2019.11,2019-11-19,2019-11-19,GBP/MWh,24,50.12
+UK Power Base Day 20   ,UK,Base,Day,Power,2019-11-19,FU20,2019.11,2019-11-20,2019-11-20,GBP/MWh,24,45.06
+UK Power Base Day 21   ,UK,Base,Day,Power,2019-11-19,FU21,2019.11,2019-11-21,2019-11-21,GBP/MWh,24,51.71
+UK Power Base Day 22   ,UK,Base,Day,Power,2019-11-19,FU22,2019.11,2019-11-22,2019-11-22,GBP/MWh,24,51.32
+UK Power Base Day 23   ,UK,Base,Day,Power,2019-11-19,FU23,2019.11,2019-11-23,2019-11-23,GBP/MWh,24,53.35
+UK Power Base Day 24   ,UK,Base,Day,Power,2019-11-19,FU24,2019.11,2019-11-24,2019-11-24,GBP/MWh,24,52.49
+UK Power Base Day 25   ,UK,Base,Day,Power,2019-11-19,FU25,2019.11,2019-11-25,2019-11-25,GBP/MWh,24,51.77
+UK Power Base Week Future   ,UK,Base,Week,Power,2019-11-19,FUB1,2019.11,2019-11-25,2019-12-01,GBP/MWh,168,50.57
+UK Power Base Week Future   ,UK,Base,Week,Power,2019-11-19,FUB2,2019.12,2019-12-02,2019-12-08,GBP/MWh,168,48.26
+UK Power Base Week Future   ,UK,Base,Week,Power,2019-11-19,FUB3,2019.12,2019-12-09,2019-12-15,GBP/MWh,168,46.95
+UK Power Base Week Future   ,UK,Base,Week,Power,2019-11-19,FUB4,2019.11,2019-11-18,2019-11-24,GBP/MWh,168,50.26
+UK Power Base Week Future   ,UK,Base,Week,Power,2019-11-19,FUB4,2019.12,2019-12-16,2019-12-22,GBP/MWh,168,45.93
+UK Power Base Month   ,UK,Base,Month,Power,2019-11-19,FUBM,2019.11,2019-11-01,2019-11-30,GBP/MWh,720,45.96
+UK Power Base Month   ,UK,Base,Month,Power,2019-11-19,FUBM,2019.12,2019-12-01,2019-12-31,GBP/MWh,744,45.99
+UK Power Base Month   ,UK,Base,Month,Power,2019-11-19,FUBM,2020.01,2020-01-01,2020-01-31,GBP/MWh,744,49.25
+UK Power Base Month   ,UK,Base,Month,Power,2019-11-19,FUBM,2020.02,2020-02-01,2020-02-29,GBP/MWh,696,49.37
+UK Power Base Quarter   ,UK,Base,Quarter,Power,2019-11-19,FUBQ,2020.01,2020-01-01,2020-03-31,GBP/MWh,2183,48.62
+UK Power Base Quarter   ,UK,Base,Quarter,Power,2019-11-19,FUBQ,2020.04,2020-04-01,2020-06-30,GBP/MWh,2184,44.03
+UK Power Base Quarter   ,UK,Base,Quarter,Power,2019-11-19,FUBQ,2020.07,2020-07-01,2020-09-30,GBP/MWh,2208,43.75
+UK Power Base Quarter   ,UK,Base,Quarter,Power,2019-11-19,FUBQ,2020.10,2020-10-01,2020-12-31,GBP/MWh,2209,50.06
+UK Power Base Season   ,UK,Base,Season,Power,2019-11-19,FUBS,2020.04,2020-04-01,2020-09-30,GBP/MWh,4392,43.89
+UK Power Base Season   ,UK,Base,Season,Power,2019-11-19,FUBS,2020.10,2020-10-01,2021-03-31,GBP/MWh,4368,51.32
+UK Power Base Year   ,UK,Base,Year,Power,2019-11-19,FUBY,2020.01,2020-01-01,2020-12-31,GBP/MWh,8784,46.62
+UK Power Peak Week Future   ,UK,Peak,Week,Power,2019-11-19,FUP1,2019.11,2019-11-25,2019-11-29,GBP/MWh,60,53.35
+UK Power Peak Week Future   ,UK,Peak,Week,Power,2019-11-19,FUP2,2019.12,2019-12-02,2019-12-06,GBP/MWh,60,52.72
+UK Power Peak Week Future   ,UK,Peak,Week,Power,2019-11-19,FUP3,2019.12,2019-12-09,2019-12-13,GBP/MWh,60,52.49
+UK Power Peak Week Future   ,UK,Peak,Week,Power,2019-11-19,FUP4,2019.11,2019-11-18,2019-11-22,GBP/MWh,60,53.96
+UK Power Peak Week Future   ,UK,Peak,Week,Power,2019-11-19,FUP4,2019.12,2019-12-16,2019-12-20,GBP/MWh,60,52.66
+UK Power Peak Month   ,UK,Peak,Month,Power,2019-11-19,FUPM,2019.11,2019-11-01,2019-11-29,GBP/MWh,252,50.9
+UK Power Peak Month   ,UK,Peak,Month,Power,2019-11-19,FUPM,2019.12,2019-12-02,2019-12-31,GBP/MWh,264,52.09
+UK Power Peak Month   ,UK,Peak,Month,Power,2019-11-19,FUPM,2020.01,2020-01-01,2020-01-31,GBP/MWh,276,55.8
+UK Power Peak Month   ,UK,Peak,Month,Power,2019-11-19,FUPM,2020.02,2020-02-03,2020-02-28,GBP/MWh,240,55.27
+UK Power Peak Quarter   ,UK,Peak,Quarter,Power,2019-11-19,FUPQ,2020.01,2020-01-01,2020-03-31,GBP/MWh,780,54.25
+UK Power Peak Quarter   ,UK,Peak,Quarter,Power,2019-11-19,FUPQ,2020.04,2020-04-01,2020-06-30,GBP/MWh,780,48.22
+UK Power Peak Quarter   ,UK,Peak,Quarter,Power,2019-11-19,FUPQ,2020.07,2020-07-01,2020-09-30,GBP/MWh,792,46.75
+UK Power Peak Quarter   ,UK,Peak,Quarter,Power,2019-11-19,FUPQ,2020.10,2020-10-01,2020-12-31,GBP/MWh,792,57.12
+UK Power Peak Season   ,UK,Peak,Season,Power,2019-11-19,FUPS,2020.04,2020-04-01,2020-09-30,GBP/MWh,1572,47.48
+UK Power Peak Season   ,UK,Peak,Season,Power,2019-11-19,FUPS,2020.10,2020-10-01,2021-03-31,GBP/MWh,1560,58.12
+UK Power Peak Year   ,UK,Peak,Year,Power,2019-11-19,FUPY,2020.01,2020-01-01,2020-12-31,GBP/MWh,3144,51.59
+UK Power Base Weekend Future   ,UK,Base,Weekend,Power,2019-11-19,FUW4,2019.11,2019-11-23,2019-11-24,GBP/MWh,48,52.92
+null,null,null,null,null,2019-11-19,FVB1,2019.11,2019-11-25,2019-12-01,EUR/MWh,168,44.63
+null,null,null,null,null,2019-11-19,FVB2,2019.12,2019-12-02,2019-12-08,EUR/MWh,168,48.18
+null,null,null,null,null,2019-11-19,FVB3,2019.12,2019-12-09,2019-12-15,EUR/MWh,168,51.53
+null,null,null,null,null,2019-11-19,FVB4,2019.11,2019-11-18,2019-11-24,EUR/MWh,168,46.48
+null,null,null,null,null,2019-11-19,FVB4,2019.12,2019-12-16,2019-12-22,EUR/MWh,168,51.31
+null,null,null,null,null,2019-11-19,FVBM,2019.11,2019-11-01,2019-11-30,EUR/MWh,720,44.3
+null,null,null,null,null,2019-11-19,FVBM,2019.12,2019-12-01,2019-12-31,EUR/MWh,744,48.87
+null,null,null,null,null,2019-11-19,FVBQ,2020.01,2020-01-01,2020-03-31,EUR/MWh,2183,58.42
+null,null,null,null,null,2019-11-19,FVBY,2020.01,2020-01-01,2020-12-31,EUR/MWh,8784,56.51
+null,null,null,null,null,2019-11-19,FVBY,2021.01,2021-01-01,2021-12-31,EUR/MWh,8760,55.9
+null,null,null,null,null,2019-11-19,FVBY,2022.01,2022-01-01,2022-12-31,EUR/MWh,8760,54.68
+null,null,null,null,null,2019-11-19,FVP1,2019.11,2019-11-25,2019-11-29,EUR/MWh,60,53.24
+null,null,null,null,null,2019-11-19,FVP2,2019.12,2019-12-02,2019-12-06,EUR/MWh,60,56.88
+null,null,null,null,null,2019-11-19,FVP3,2019.12,2019-12-09,2019-12-13,EUR/MWh,60,61.5
+null,null,null,null,null,2019-11-19,FVP4,2019.11,2019-11-18,2019-11-22,EUR/MWh,60,60.3
+null,null,null,null,null,2019-11-19,FVP4,2019.12,2019-12-16,2019-12-20,EUR/MWh,60,62.66
+null,null,null,null,null,2019-11-19,FVPM,2019.11,2019-11-01,2019-11-29,EUR/MWh,252,54.4
+null,null,null,null,null,2019-11-19,FVPM,2019.12,2019-12-02,2019-12-31,EUR/MWh,264,59.27
+null,null,null,null,null,2019-11-19,FVPQ,2020.01,2020-01-01,2020-03-31,EUR/MWh,780,69.68
+null,null,null,null,null,2019-11-19,FVPY,2020.01,2020-01-01,2020-12-31,EUR/MWh,3144,67.66
+PXE Czech Base Day Future,Czech,Base,Day,Power,2019-11-19,FX19,2019.11,2019-11-19,2019-11-19,EUR/MWh,24,42.93
+PXE Czech Base Day Future,Czech,Base,Day,Power,2019-11-19,FX20,2019.11,2019-11-20,2019-11-20,EUR/MWh,24,56.1
+PXE Czech Base Day Future,Czech,Base,Day,Power,2019-11-19,FX21,2019.11,2019-11-21,2019-11-21,EUR/MWh,24,50.67
+PXE Czech Base Day Future,Czech,Base,Day,Power,2019-11-19,FX22,2019.11,2019-11-22,2019-11-22,EUR/MWh,24,49.61
+PXE Czech Base Day Future,Czech,Base,Day,Power,2019-11-19,FX23,2019.11,2019-11-23,2019-11-23,EUR/MWh,24,41.1
+PXE Czech Base Day Future,Czech,Base,Day,Power,2019-11-19,FX24,2019.11,2019-11-24,2019-11-24,EUR/MWh,24,32.94
+PXE Czech Base Day Future,Czech,Base,Day,Power,2019-11-19,FX25,2019.11,2019-11-25,2019-11-25,EUR/MWh,24,40.29
+PXE Czech Base Week Future,Czech,Base,Week,Power,2019-11-19,FXB1,2019.11,2019-11-25,2019-12-01,EUR/MWh,168,40.38
+PXE Czech Base Week Future,Czech,Base,Week,Power,2019-11-19,FXB2,2019.12,2019-12-02,2019-12-08,EUR/MWh,168,41.68
+PXE Czech Base Week Future,Czech,Base,Week,Power,2019-11-19,FXB3,2019.12,2019-12-09,2019-12-15,EUR/MWh,168,44.03
+PXE Czech Base Week Future,Czech,Base,Week,Power,2019-11-19,FXB4,2019.11,2019-11-18,2019-11-24,EUR/MWh,168,45.26
+PXE Czech Base Week Future,Czech,Base,Week,Power,2019-11-19,FXB4,2019.12,2019-12-16,2019-12-22,EUR/MWh,168,42.17
+PXE Czech Base Month Future,Czech,Base,Month,Power,2019-11-19,FXBM,2019.11,2019-11-01,2019-11-30,EUR/MWh,720,42.18
+PXE Czech Base Month Future,Czech,Base,Month,Power,2019-11-19,FXBM,2019.12,2019-12-01,2019-12-31,EUR/MWh,744,39.88
+PXE Czech Base Month Future,Czech,Base,Month,Power,2019-11-19,FXBM,2020.01,2020-01-01,2020-01-31,EUR/MWh,744,48.3
+PXE Czech Base Month Future,Czech,Base,Month,Power,2019-11-19,FXBM,2020.02,2020-02-01,2020-02-29,EUR/MWh,696,51.25
+PXE Czech Base Month Future,Czech,Base,Month,Power,2019-11-19,FXBM,2020.03,2020-03-01,2020-03-31,EUR/MWh,743,45.6
+PXE Czech Base Month Future,Czech,Base,Month,Power,2019-11-19,FXBM,2020.04,2020-04-01,2020-04-30,EUR/MWh,720,43.29
+PXE Czech Base Month Future,Czech,Base,Month,Power,2019-11-19,FXBM,2020.05,2020-05-01,2020-05-31,EUR/MWh,744,41.94
+PXE Czech Base Quarter Future,Czech,Base,Quarter,Power,2019-11-19,FXBQ,2020.01,2020-01-01,2020-03-31,EUR/MWh,2183,48.32
+PXE Czech Base Quarter Future,Czech,Base,Quarter,Power,2019-11-19,FXBQ,2020.04,2020-04-01,2020-06-30,EUR/MWh,2184,43.24
+PXE Czech Base Quarter Future,Czech,Base,Quarter,Power,2019-11-19,FXBQ,2020.07,2020-07-01,2020-09-30,EUR/MWh,2208,47.41
+PXE Czech Base Quarter Future,Czech,Base,Quarter,Power,2019-11-19,FXBQ,2020.10,2020-10-01,2020-12-31,EUR/MWh,2209,53.23
+PXE Czech Base Year Future,Czech,Base,Year,Power,2019-11-19,FXBY,2020.01,2020-01-01,2020-12-31,EUR/MWh,8784,48.06
+PXE Czech Base Year Future,Czech,Base,Year,Power,2019-11-19,FXBY,2021.01,2021-01-01,2021-12-31,EUR/MWh,8760,49.7
+PXE Czech Base Year Future,Czech,Base,Year,Power,2019-11-19,FXBY,2022.01,2022-01-01,2022-12-31,EUR/MWh,8760,50.03
+PXE Czech Peak Week Future,Czech,Peak,Week,Power,2019-11-19,FXP1,2019.11,2019-11-25,2019-11-29,EUR/MWh,60,51.24
+PXE Czech Peak Week Future,Czech,Peak,Week,Power,2019-11-19,FXP2,2019.12,2019-12-02,2019-12-06,EUR/MWh,60,54.18
+PXE Czech Peak Week Future,Czech,Peak,Week,Power,2019-11-19,FXP3,2019.12,2019-12-09,2019-12-13,EUR/MWh,60,57.75
+PXE Czech Peak Week Future,Czech,Peak,Week,Power,2019-11-19,FXP4,2019.11,2019-11-18,2019-11-22,EUR/MWh,60,57.7
+PXE Czech Peak Week Future,Czech,Peak,Week,Power,2019-11-19,FXP4,2019.12,2019-12-16,2019-12-20,EUR/MWh,60,56.35
+PXE Czech Peak Month Future,Czech,Peak,Month,Power,2019-11-19,FXPM,2019.11,2019-11-01,2019-11-29,EUR/MWh,252,52.71
+PXE Czech Peak Month Future,Czech,Peak,Month,Power,2019-11-19,FXPM,2019.12,2019-12-02,2019-12-31,EUR/MWh,264,51.57
+PXE Czech Peak Month Future,Czech,Peak,Month,Power,2019-11-19,FXPM,2020.01,2020-01-01,2020-01-31,EUR/MWh,276,60.71
+PXE Czech Peak Month Future,Czech,Peak,Month,Power,2019-11-19,FXPM,2020.02,2020-02-03,2020-02-28,EUR/MWh,240,64.64
+PXE Czech Peak Month Future,Czech,Peak,Month,Power,2019-11-19,FXPM,2020.03,2020-03-02,2020-03-31,EUR/MWh,264,57.2
+PXE Czech Peak Month Future,Czech,Peak,Month,Power,2019-11-19,FXPM,2020.04,2020-04-01,2020-04-30,EUR/MWh,264,50.48
+PXE Czech Peak Month Future,Czech,Peak,Month,Power,2019-11-19,FXPM,2020.05,2020-05-01,2020-05-29,EUR/MWh,252,48.54
+PXE Czech Peak Quarter Future,Czech,Peak,Quarter,Power,2019-11-19,FXPQ,2020.01,2020-01-01,2020-03-31,EUR/MWh,780,60.73
+PXE Czech Peak Quarter Future,Czech,Peak,Quarter,Power,2019-11-19,FXPQ,2020.04,2020-04-01,2020-06-30,EUR/MWh,780,50.06
+PXE Czech Peak Quarter Future,Czech,Peak,Quarter,Power,2019-11-19,FXPQ,2020.07,2020-07-01,2020-09-30,EUR/MWh,792,56.3
+PXE Czech Peak Quarter Future,Czech,Peak,Quarter,Power,2019-11-19,FXPQ,2020.10,2020-10-01,2020-12-31,EUR/MWh,792,67.05
+PXE Czech Peak Year Future,Czech,Peak,Year,Power,2019-11-19,FXPY,2020.01,2020-01-01,2020-12-31,EUR/MWh,3144,58.56
+PXE Czech Peak Year Future,Czech,Peak,Year,Power,2019-11-19,FXPY,2021.01,2021-01-01,2021-12-31,EUR/MWh,3132,60.65
+PXE Czech Peak Year Future,Czech,Peak,Year,Power,2019-11-19,FXPY,2022.01,2022-01-03,2022-12-30,EUR/MWh,3120,61.84
+PXE Slovakian Base Month Future,Slovakian,Base,Month,Power,2019-11-19,FYBM,2019.11,2019-11-01,2019-11-30,EUR/MWh,720,43.66
+PXE Slovakian Base Month Future,Slovakian,Base,Month,Power,2019-11-19,FYBM,2019.12,2019-12-01,2019-12-31,EUR/MWh,744,41.38
+PXE Slovakian Base Month Future,Slovakian,Base,Month,Power,2019-11-19,FYBM,2020.01,2020-01-01,2020-01-31,EUR/MWh,744,50.6
+PXE Slovakian Base Month Future,Slovakian,Base,Month,Power,2019-11-19,FYBM,2020.02,2020-02-01,2020-02-29,EUR/MWh,696,53.5
+PXE Slovakian Base Month Future,Slovakian,Base,Month,Power,2019-11-19,FYBM,2020.03,2020-03-01,2020-03-31,EUR/MWh,743,47.8
+PXE Slovakian Base Month Future,Slovakian,Base,Month,Power,2019-11-19,FYBM,2020.04,2020-04-01,2020-04-30,EUR/MWh,720,44.54
+PXE Slovakian Base Month Future,Slovakian,Base,Month,Power,2019-11-19,FYBM,2020.05,2020-05-01,2020-05-31,EUR/MWh,744,43.19
+PXE Slovakian Base Quarter Future,Slovakian,Base,Quarter,Power,2019-11-19,FYBQ,2020.01,2020-01-01,2020-03-31,EUR/MWh,2183,50.57
+PXE Slovakian Base Quarter Future,Slovakian,Base,Quarter,Power,2019-11-19,FYBQ,2020.04,2020-04-01,2020-06-30,EUR/MWh,2184,44.49
+PXE Slovakian Base Quarter Future,Slovakian,Base,Quarter,Power,2019-11-19,FYBQ,2020.07,2020-07-01,2020-09-30,EUR/MWh,2208,49.16
+PXE Slovakian Base Quarter Future,Slovakian,Base,Quarter,Power,2019-11-19,FYBQ,2020.10,2020-10-01,2020-12-31,EUR/MWh,2209,54.98
+PXE Slovakian Base Year Future,Slovakian,Base,Year,Power,2019-11-19,FYBY,2020.01,2020-01-01,2020-12-31,EUR/MWh,8784,49.81
+PXE Slovakian Base Year Future,Slovakian,Base,Year,Power,2019-11-19,FYBY,2021.01,2021-01-01,2021-12-31,EUR/MWh,8760,51.2
+PXE Slovakian Base Year Future,Slovakian,Base,Year,Power,2019-11-19,FYBY,2022.01,2022-01-01,2022-12-31,EUR/MWh,8760,50.93
+PXE Slovakian Peak Month Future,Slovakian,Peak,Month,Power,2019-11-19,FYPM,2019.11,2019-11-01,2019-11-29,EUR/MWh,252,55.94
+PXE Slovakian Peak Month Future,Slovakian,Peak,Month,Power,2019-11-19,FYPM,2019.12,2019-12-02,2019-12-31,EUR/MWh,264,54.57
+PXE Slovakian Peak Month Future,Slovakian,Peak,Month,Power,2019-11-19,FYPM,2020.01,2020-01-01,2020-01-31,EUR/MWh,276,65.31
+PXE Slovakian Peak Month Future,Slovakian,Peak,Month,Power,2019-11-19,FYPM,2020.02,2020-02-03,2020-02-28,EUR/MWh,240,69.14
+PXE Slovakian Peak Month Future,Slovakian,Peak,Month,Power,2019-11-19,FYPM,2020.03,2020-03-02,2020-03-31,EUR/MWh,264,61.6
+PXE Slovakian Peak Month Future,Slovakian,Peak,Month,Power,2019-11-19,FYPM,2020.04,2020-04-01,2020-04-30,EUR/MWh,264,52.98
+PXE Slovakian Peak Month Future,Slovakian,Peak,Month,Power,2019-11-19,FYPM,2020.05,2020-05-01,2020-05-29,EUR/MWh,252,51.04
+PXE Slovakian Peak Quarter Future,Slovakian,Peak,Quarter,Power,2019-11-19,FYPQ,2020.01,2020-01-01,2020-03-31,EUR/MWh,780,65.23
+PXE Slovakian Peak Quarter Future,Slovakian,Peak,Quarter,Power,2019-11-19,FYPQ,2020.04,2020-04-01,2020-06-30,EUR/MWh,780,52.56
+PXE Slovakian Peak Quarter Future,Slovakian,Peak,Quarter,Power,2019-11-19,FYPQ,2020.07,2020-07-01,2020-09-30,EUR/MWh,792,59.8
+PXE Slovakian Peak Quarter Future,Slovakian,Peak,Quarter,Power,2019-11-19,FYPQ,2020.10,2020-10-01,2020-12-31,EUR/MWh,792,70.55
+PXE Slovakian Peak Year Future,Slovakian,Peak,Year,Power,2019-11-19,FYPY,2020.01,2020-01-01,2020-12-31,EUR/MWh,3144,62.06
+PXE Slovakian Peak Year Future,Slovakian,Peak,Year,Power,2019-11-19,FYPY,2021.01,2021-01-01,2021-12-31,EUR/MWh,3132,63.65
+PXE Slovakian Peak Year Future,Slovakian,Peak,Year,Power,2019-11-19,FYPY,2022.01,2022-01-03,2022-12-30,EUR/MWh,3120,63.64
+null,null,null,null,null,2019-11-19,FZB1,2019.11,2019-11-25,2019-12-01,EUR/MWh,168,44.63
+null,null,null,null,null,2019-11-19,FZB2,2019.12,2019-12-02,2019-12-08,EUR/MWh,168,48.18
+null,null,null,null,null,2019-11-19,FZB3,2019.12,2019-12-09,2019-12-15,EUR/MWh,168,51.53
+null,null,null,null,null,2019-11-19,FZB4,2019.11,2019-11-18,2019-11-24,EUR/MWh,168,45.72
+null,null,null,null,null,2019-11-19,FZB4,2019.12,2019-12-16,2019-12-22,EUR/MWh,168,51.31
+null,null,null,null,null,2019-11-19,FZBM,2019.11,2019-11-01,2019-11-30,EUR/MWh,720,44.09
+null,null,null,null,null,2019-11-19,FZBM,2019.12,2019-12-01,2019-12-31,EUR/MWh,744,49.12
+null,null,null,null,null,2019-11-19,FZBQ,2020.01,2020-01-01,2020-03-31,EUR/MWh,2183,58.82
+null,null,null,null,null,2019-11-19,FZBY,2020.01,2020-01-01,2020-12-31,EUR/MWh,8784,56.91
+Phelix-DE/AT Base Month OTF Future,German-Austrian,Base,Month,Power OTF Future,2019-11-19,N1BM,2019.11,2019-11-01,2019-11-30,EUR/MWh,720,41.19
+Phelix-DE/AT Base Month OTF Future,German-Austrian,Base,Month,Power OTF Future,2019-11-19,N1BM,2019.12,2019-12-01,2019-12-31,EUR/MWh,744,37.86
+Phelix-DE/AT Base Month OTF Future,German-Austrian,Base,Month,Power OTF Future,2019-11-19,N1BM,2020.01,2020-01-01,2020-01-31,EUR/MWh,744,44.57
+Phelix-DE/AT Base Month OTF Future,German-Austrian,Base,Month,Power OTF Future,2019-11-19,N1BM,2020.02,2020-02-01,2020-02-29,EUR/MWh,696,47.71
+Phelix-DE/AT Base Month OTF Future,German-Austrian,Base,Month,Power OTF Future,2019-11-19,N1BM,2020.03,2020-03-01,2020-03-31,EUR/MWh,743,43.55
+Phelix-DE/AT Base Month OTF Future,German-Austrian,Base,Month,Power OTF Future,2019-11-19,N1BM,2020.04,2020-04-01,2020-04-30,EUR/MWh,720,41.42
+Phelix-DE/AT Base Month OTF Future,German-Austrian,Base,Month,Power OTF Future,2019-11-19,N1BM,2020.05,2020-05-01,2020-05-31,EUR/MWh,744,40.05
+Phelix-DE/AT Base Quarter OTF Future,German-Austrian,Base,Quarter,Power OTF Future,2019-11-19,N1BQ,2020.01,2020-01-01,2020-03-31,EUR/MWh,2183,45.22
+Phelix-DE/AT Base Quarter OTF Future,German-Austrian,Base,Quarter,Power OTF Future,2019-11-19,N1BQ,2020.04,2020-04-01,2020-06-30,EUR/MWh,2184,41.36
+Phelix-DE/AT Base Quarter OTF Future,German-Austrian,Base,Quarter,Power OTF Future,2019-11-19,N1BQ,2020.07,2020-07-01,2020-09-30,EUR/MWh,2208,43.75
+Phelix-DE/AT Base Quarter OTF Future,German-Austrian,Base,Quarter,Power OTF Future,2019-11-19,N1BQ,2020.10,2020-10-01,2020-12-31,EUR/MWh,2209,50.06
+Phelix-DE/AT Base Quarter OTF Future,German-Austrian,Base,Quarter,Power OTF Future,2019-11-19,N1BQ,2021.01,2021-01-01,2021-03-31,EUR/MWh,2159,51.47
+Phelix-DE/AT Base Quarter OTF Future,German-Austrian,Base,Quarter,Power OTF Future,2019-11-19,N1BQ,2021.04,2021-04-01,2021-06-30,EUR/MWh,2184,42.26
+Phelix-DE/AT Base Quarter OTF Future,German-Austrian,Base,Quarter,Power OTF Future,2019-11-19,N1BQ,2021.07,2021-07-01,2021-09-30,EUR/MWh,2208,43.51
+Phelix-DE/AT Base Year OTF Future,German-Austrian,Base,Year,Power OTF Future,2019-11-19,N1BY,2020.01,2020-01-01,2020-12-31,EUR/MWh,8784,45.11
+Phelix-DE/AT Base Year OTF Future,German-Austrian,Base,Year,Power OTF Future,2019-11-19,N1BY,2021.01,2021-01-01,2021-12-31,EUR/MWh,8760,46.92
+Phelix-DE/AT Base Year OTF Future,German-Austrian,Base,Year,Power OTF Future,2019-11-19,N1BY,2022.01,2022-01-01,2022-12-31,EUR/MWh,8760,48.09
+Phelix-DE/AT Base Year OTF Future,German-Austrian,Base,Year,Power OTF Future,2019-11-19,N1BY,2023.01,2023-01-01,2023-12-31,EUR/MWh,8760,49.91
+Phelix-DE/AT Peak Month OTF Future,German-Austrian,Peak,Month,Power OTF Future,2019-11-19,N1PM,2019.11,2019-11-01,2019-11-29,EUR/MWh,252,50.72
+Phelix-DE/AT Peak Month OTF Future,German-Austrian,Peak,Month,Power OTF Future,2019-11-19,N1PM,2019.12,2019-12-02,2019-12-31,EUR/MWh,264,48.3
+Phelix-DE/AT Peak Month OTF Future,German-Austrian,Peak,Month,Power OTF Future,2019-11-19,N1PM,2020.01,2020-01-01,2020-01-31,EUR/MWh,276,55.37
+Phelix-DE/AT Peak Month OTF Future,German-Austrian,Peak,Month,Power OTF Future,2019-11-19,N1PM,2020.02,2020-02-03,2020-02-28,EUR/MWh,240,59.46
+Phelix-DE/AT Peak Month OTF Future,German-Austrian,Peak,Month,Power OTF Future,2019-11-19,N1PM,2020.03,2020-03-02,2020-03-31,EUR/MWh,264,52.61
+Phelix-DE/AT Peak Month OTF Future,German-Austrian,Peak,Month,Power OTF Future,2019-11-19,N1PM,2020.04,2020-04-01,2020-04-30,EUR/MWh,264,47.35
+Phelix-DE/AT Peak Month OTF Future,German-Austrian,Peak,Month,Power OTF Future,2019-11-19,N1PM,2020.05,2020-05-01,2020-05-29,EUR/MWh,252,45.38
+Phelix-DE/AT Peak Quarter OTF Future,German-Austrian,Peak,Quarter,Power OTF Future,2019-11-19,N1PQ,2020.01,2020-01-01,2020-03-31,EUR/MWh,780,55.69
+Phelix-DE/AT Peak Quarter OTF Future,German-Austrian,Peak,Quarter,Power OTF Future,2019-11-19,N1PQ,2020.04,2020-04-01,2020-06-30,EUR/MWh,780,46.95
+Phelix-DE/AT Peak Quarter OTF Future,German-Austrian,Peak,Quarter,Power OTF Future,2019-11-19,N1PQ,2020.07,2020-07-01,2020-09-30,EUR/MWh,792,50.75
+Phelix-DE/AT Peak Quarter OTF Future,German-Austrian,Peak,Quarter,Power OTF Future,2019-11-19,N1PQ,2020.10,2020-10-01,2020-12-31,EUR/MWh,792,61.92
+Phelix-DE/AT Peak Quarter OTF Future,German-Austrian,Peak,Quarter,Power OTF Future,2019-11-19,N1PQ,2021.01,2021-01-01,2021-03-31,EUR/MWh,768,63.17
+Phelix-DE/AT Peak Quarter OTF Future,German-Austrian,Peak,Quarter,Power OTF Future,2019-11-19,N1PQ,2021.04,2021-04-01,2021-06-30,EUR/MWh,780,48.87
+Phelix-DE/AT Peak Quarter OTF Future,German-Austrian,Peak,Quarter,Power OTF Future,2019-11-19,N1PQ,2021.07,2021-07-01,2021-09-30,EUR/MWh,792,51.2
+Phelix-DE/AT Peak Year OTF Future,German-Austrian,Peak,Year,Power OTF Future,2019-11-19,N1PY,2020.01,2020-01-01,2020-12-31,EUR/MWh,3144,53.85
+Phelix-DE/AT Peak Year OTF Future,German-Austrian,Peak,Year,Power OTF Future,2019-11-19,N1PY,2021.01,2021-01-01,2021-12-31,EUR/MWh,3132,56.66
+Phelix-DE/AT Peak Year OTF Future,German-Austrian,Peak,Year,Power OTF Future,2019-11-19,N1PY,2022.01,2022-01-03,2022-12-30,EUR/MWh,3120,58.91
+Phelix-DE/AT Peak Year OTF Future,German-Austrian,Peak,Year,Power OTF Future,2019-11-19,N1PY,2023.01,2023-01-02,2023-12-29,EUR/MWh,3120,61.07
+Phelix-DE Base Month OTF Future,German,Base,Month,Power OTF Future,2019-11-19,N2BM,2019.11,2019-11-01,2019-11-30,EUR/MWh,720,40.95
+Phelix-DE Base Month OTF Future,German,Base,Month,Power OTF Future,2019-11-19,N2BM,2019.12,2019-12-01,2019-12-31,EUR/MWh,744,37.4
+Phelix-DE Base Month OTF Future,German,Base,Month,Power OTF Future,2019-11-19,N2BM,2020.01,2020-01-01,2020-01-31,EUR/MWh,744,44.05
+Phelix-DE Base Month OTF Future,German,Base,Month,Power OTF Future,2019-11-19,N2BM,2020.02,2020-02-01,2020-02-29,EUR/MWh,696,47.25
+Phelix-DE Base Month OTF Future,German,Base,Month,Power OTF Future,2019-11-19,N2BM,2020.03,2020-03-01,2020-03-31,EUR/MWh,743,43.17
+Phelix-DE Base Month OTF Future,German,Base,Month,Power OTF Future,2019-11-19,N2BM,2020.04,2020-04-01,2020-04-30,EUR/MWh,720,41.29
+Phelix-DE Base Month OTF Future,German,Base,Month,Power OTF Future,2019-11-19,N2BM,2020.05,2020-05-01,2020-05-31,EUR/MWh,744,39.94
+Phelix-DE Base Month OTF Future,German,Base,Month,Power OTF Future,2019-11-19,N2BM,2020.06,2020-06-01,2020-06-30,EUR/MWh,720,42.54
+Phelix-DE Base Month OTF Future,German,Base,Month,Power OTF Future,2019-11-19,N2BM,2020.07,2020-07-01,2020-07-31,EUR/MWh,744,43.29
+Phelix-DE Base Month OTF Future,German,Base,Month,Power OTF Future,2019-11-19,N2BM,2020.08,2020-08-01,2020-08-31,EUR/MWh,744,41.65
+Phelix-DE Base Quarter OTF Future,German,Base,Quarter,Power OTF Future,2019-11-19,N2BQ,2020.01,2020-01-01,2020-03-31,EUR/MWh,2183,44.77
+Phelix-DE Base Quarter OTF Future,German,Base,Quarter,Power OTF Future,2019-11-19,N2BQ,2020.04,2020-04-01,2020-06-30,EUR/MWh,2184,41.24
+Phelix-DE Base Quarter OTF Future,German,Base,Quarter,Power OTF Future,2019-11-19,N2BQ,2020.07,2020-07-01,2020-09-30,EUR/MWh,2208,43.61
+Phelix-DE Base Quarter OTF Future,German,Base,Quarter,Power OTF Future,2019-11-19,N2BQ,2020.10,2020-10-01,2020-12-31,EUR/MWh,2209,49.59
+Phelix-DE Base Quarter OTF Future,German,Base,Quarter,Power OTF Future,2019-11-19,N2BQ,2021.01,2021-01-01,2021-03-31,EUR/MWh,2159,50.95
+Phelix-DE Base Quarter OTF Future,German,Base,Quarter,Power OTF Future,2019-11-19,N2BQ,2021.04,2021-04-01,2021-06-30,EUR/MWh,2184,42.14
+Phelix-DE Base Quarter OTF Future,German,Base,Quarter,Power OTF Future,2019-11-19,N2BQ,2021.07,2021-07-01,2021-09-30,EUR/MWh,2208,43.39
+Phelix-DE Base Quarter OTF Future,German,Base,Quarter,Power OTF Future,2019-11-19,N2BQ,2021.10,2021-10-01,2021-12-31,EUR/MWh,2209,49.95
+Phelix-DE Base Year OTF Futures,German,Base,Year,Power OTF Future,2019-11-19,N2BY,2020.01,2020-01-01,2020-12-31,EUR/MWh,8784,44.81
+Phelix-DE Base Year OTF Futures,German,Base,Year,Power OTF Future,2019-11-19,N2BY,2021.01,2021-01-01,2021-12-31,EUR/MWh,8760,46.6
+Phelix-DE Base Year OTF Futures,German,Base,Year,Power OTF Future,2019-11-19,N2BY,2022.01,2022-01-01,2022-12-31,EUR/MWh,8760,47.78
+Phelix-DE Base Year OTF Futures,German,Base,Year,Power OTF Future,2019-11-19,N2BY,2023.01,2023-01-01,2023-12-31,EUR/MWh,8760,49.6
+Phelix-DE Base Year OTF Futures,German,Base,Year,Power OTF Future,2019-11-19,N2BY,2024.01,2024-01-01,2024-12-31,EUR/MWh,8784,50.64
+Phelix-DE Base Year OTF Futures,German,Base,Year,Power OTF Future,2019-11-19,N2BY,2025.01,2025-01-01,2025-12-31,EUR/MWh,8760,51.19
+Phelix-DE Peak Month OTF Future,German,Peak,Month,Power OTF Future,2019-11-19,N2PM,2019.11,2019-11-01,2019-11-29,EUR/MWh,252,50.42
+Phelix-DE Peak Month OTF Future,German,Peak,Month,Power OTF Future,2019-11-19,N2PM,2019.12,2019-12-02,2019-12-31,EUR/MWh,264,47.77
+Phelix-DE Peak Month OTF Future,German,Peak,Month,Power OTF Future,2019-11-19,N2PM,2020.01,2020-01-01,2020-01-31,EUR/MWh,276,54.71
+Phelix-DE Peak Month OTF Future,German,Peak,Month,Power OTF Future,2019-11-19,N2PM,2020.02,2020-02-03,2020-02-28,EUR/MWh,240,58.84
+Phelix-DE Peak Month OTF Future,German,Peak,Month,Power OTF Future,2019-11-19,N2PM,2020.03,2020-03-02,2020-03-31,EUR/MWh,264,52.06
+Phelix-DE Peak Month OTF Future,German,Peak,Month,Power OTF Future,2019-11-19,N2PM,2020.04,2020-04-01,2020-04-30,EUR/MWh,264,47.18
+Phelix-DE Peak Month OTF Future,German,Peak,Month,Power OTF Future,2019-11-19,N2PM,2020.05,2020-05-01,2020-05-29,EUR/MWh,252,45.24
+Phelix-DE Peak Quarter OTF Future,German,Peak,Quarter,Power OTF Future,2019-11-19,N2PQ,2020.01,2020-01-01,2020-03-31,EUR/MWh,780,55.08
+Phelix-DE Peak Quarter OTF Future,German,Peak,Quarter,Power OTF Future,2019-11-19,N2PQ,2020.04,2020-04-01,2020-06-30,EUR/MWh,780,46.76
+Phelix-DE Peak Quarter OTF Future,German,Peak,Quarter,Power OTF Future,2019-11-19,N2PQ,2020.07,2020-07-01,2020-09-30,EUR/MWh,792,50.55
+Phelix-DE Peak Quarter OTF Future,German,Peak,Quarter,Power OTF Future,2019-11-19,N2PQ,2020.10,2020-10-01,2020-12-31,EUR/MWh,792,61.37
+Phelix-DE Peak Quarter OTF Future,German,Peak,Quarter,Power OTF Future,2019-11-19,N2PQ,2021.01,2021-01-01,2021-03-31,EUR/MWh,768,62.59
+Phelix-DE Peak Quarter OTF Future,German,Peak,Quarter,Power OTF Future,2019-11-19,N2PQ,2021.04,2021-04-01,2021-06-30,EUR/MWh,780,48.72
+Phelix-DE Peak Quarter OTF Future,German,Peak,Quarter,Power OTF Future,2019-11-19,N2PQ,2021.07,2021-07-01,2021-09-30,EUR/MWh,792,51.04
+Phelix-DE Peak Year OTF Futures,German,Peak,Year,Power OTF Future,2019-11-19,N2PY,2020.01,2020-01-01,2020-12-31,EUR/MWh,3144,53.46
+Phelix-DE Peak Year OTF Futures,German,Peak,Year,Power OTF Future,2019-11-19,N2PY,2021.01,2021-01-01,2021-12-31,EUR/MWh,3132,56.25
+Phelix-DE Peak Year OTF Futures,German,Peak,Year,Power OTF Future,2019-11-19,N2PY,2022.01,2022-01-03,2022-12-30,EUR/MWh,3120,58.54
+Phelix-DE Peak Year OTF Futures,German,Peak,Year,Power OTF Future,2019-11-19,N2PY,2023.01,2023-01-02,2023-12-29,EUR/MWh,3120,60.73
+Phelix-DE Peak Year OTF Futures,German,Peak,Year,Power OTF Future,2019-11-19,N2PY,2024.01,2024-01-01,2024-12-31,EUR/MWh,3144,62.54
+Phelix-DE Peak Year OTF Futures,German,Peak,Year,Power OTF Future,2019-11-19,N2PY,2025.01,2025-01-01,2025-12-31,EUR/MWh,3132,62.49
+Phelix-AT Base Month OTF Future,Austrian,Base,Month,Power OTF Future,2019-11-19,N3BM,2019.11,2019-11-01,2019-11-30,EUR/MWh,720,43.31
+Phelix-AT Base Month OTF Future,Austrian,Base,Month,Power OTF Future,2019-11-19,N3BM,2019.12,2019-12-01,2019-12-31,EUR/MWh,744,41.96
+Phelix-AT Base Month OTF Future,Austrian,Base,Month,Power OTF Future,2019-11-19,N3BM,2020.01,2020-01-01,2020-01-31,EUR/MWh,744,49.23
+Phelix-AT Base Month OTF Future,Austrian,Base,Month,Power OTF Future,2019-11-19,N3BM,2020.02,2020-02-01,2020-02-29,EUR/MWh,696,51.8
+Phelix-AT Base Month OTF Future,Austrian,Base,Month,Power OTF Future,2019-11-19,N3BM,2020.03,2020-03-01,2020-03-31,EUR/MWh,743,46.95
+Phelix-AT Base Month OTF Future,Austrian,Base,Month,Power OTF Future,2019-11-19,N3BM,2020.04,2020-04-01,2020-04-30,EUR/MWh,720,42.61
+Phelix-AT Base Month OTF Future,Austrian,Base,Month,Power OTF Future,2019-11-19,N3BM,2020.05,2020-05-01,2020-05-31,EUR/MWh,744,40.99
+Phelix-AT Base Quarter OTF Future,Austrian,Base,Quarter,Power OTF Future,2019-11-19,N3BQ,2020.01,2020-01-01,2020-03-31,EUR/MWh,2183,49.27
+Phelix-AT Base Quarter OTF Future,Austrian,Base,Quarter,Power OTF Future,2019-11-19,N3BQ,2020.04,2020-04-01,2020-06-30,EUR/MWh,2184,42.45
+Phelix-AT Base Quarter OTF Future,Austrian,Base,Quarter,Power OTF Future,2019-11-19,N3BQ,2020.07,2020-07-01,2020-09-30,EUR/MWh,2208,45
+Phelix-AT Base Quarter OTF Future,Austrian,Base,Quarter,Power OTF Future,2019-11-19,N3BQ,2020.10,2020-10-01,2020-12-31,EUR/MWh,2209,54.29
+Phelix-AT Base Quarter OTF Future,Austrian,Base,Quarter,Power OTF Future,2019-11-19,N3BQ,2021.01,2021-01-01,2021-03-31,EUR/MWh,2159,56.1
+Phelix-AT Base Quarter OTF Future,Austrian,Base,Quarter,Power OTF Future,2019-11-19,N3BQ,2021.04,2021-04-01,2021-06-30,EUR/MWh,2184,43.29
+Phelix-AT Base Quarter OTF Future,Austrian,Base,Quarter,Power OTF Future,2019-11-19,N3BQ,2021.07,2021-07-01,2021-09-30,EUR/MWh,2208,44.59
+Phelix-AT Base Year OTF Future,Austrian,Base,Year,Power OTF Future,2019-11-19,N3BY,2020.01,2020-01-01,2020-12-31,EUR/MWh,8784,47.76
+Phelix-AT Base Year OTF Future,Austrian,Base,Year,Power OTF Future,2019-11-19,N3BY,2021.01,2021-01-01,2021-12-31,EUR/MWh,8760,49.77
+Phelix-AT Base Year OTF Future,Austrian,Base,Year,Power OTF Future,2019-11-19,N3BY,2022.01,2022-01-01,2022-12-31,EUR/MWh,8760,50.91
+Phelix-AT Base Year OTF Future,Austrian,Base,Year,Power OTF Future,2019-11-19,N3BY,2023.01,2023-01-01,2023-12-31,EUR/MWh,8760,52.73
+Phelix-AT Base Year OTF Future,Austrian,Base,Year,Power OTF Future,2019-11-19,N3BY,2024.01,2024-01-01,2024-12-31,EUR/MWh,8784,53.84
+Phelix-AT Base Year OTF Future,Austrian,Base,Year,Power OTF Future,2019-11-19,N3BY,2025.01,2025-01-01,2025-12-31,EUR/MWh,8760,54.42
+Phelix-AT Peak Month OTF Future,Austrian,Peak,Month,Power OTF Future,2019-11-19,N3PM,2019.11,2019-11-01,2019-11-29,EUR/MWh,252,53.38
+Phelix-AT Peak Month OTF Future,Austrian,Peak,Month,Power OTF Future,2019-11-19,N3PM,2019.12,2019-12-02,2019-12-31,EUR/MWh,264,53.05
+Phelix-AT Peak Month OTF Future,Austrian,Peak,Month,Power OTF Future,2019-11-19,N3PM,2020.01,2020-01-01,2020-01-31,EUR/MWh,276,61.26
+Phelix-AT Peak Month OTF Future,Austrian,Peak,Month,Power OTF Future,2019-11-19,N3PM,2020.02,2020-02-03,2020-02-28,EUR/MWh,240,65.01
+Phelix-AT Peak Month OTF Future,Austrian,Peak,Month,Power OTF Future,2019-11-19,N3PM,2020.03,2020-03-02,2020-03-31,EUR/MWh,264,57.7
+Phelix-AT Peak Month OTF Future,Austrian,Peak,Month,Power OTF Future,2019-11-19,N3PM,2020.04,2020-04-01,2020-04-30,EUR/MWh,264,48.83
+Phelix-AT Peak Month OTF Future,Austrian,Peak,Month,Power OTF Future,2019-11-19,N3PM,2020.05,2020-05-01,2020-05-29,EUR/MWh,252,46.59
+Phelix-AT Peak Quarter OTF Future,Austrian,Peak,Quarter,Power OTF Future,2019-11-19,N3PQ,2020.01,2020-01-01,2020-03-31,EUR/MWh,780,61.21
+Phelix-AT Peak Quarter OTF Future,Austrian,Peak,Quarter,Power OTF Future,2019-11-19,N3PQ,2020.04,2020-04-01,2020-06-30,EUR/MWh,780,48.62
+Phelix-AT Peak Quarter OTF Future,Austrian,Peak,Quarter,Power OTF Future,2019-11-19,N3PQ,2020.07,2020-07-01,2020-09-30,EUR/MWh,792,52.53
+Phelix-AT Peak Quarter OTF Future,Austrian,Peak,Quarter,Power OTF Future,2019-11-19,N3PQ,2020.10,2020-10-01,2020-12-31,EUR/MWh,792,66.85
+Phelix-AT Peak Quarter OTF Future,Austrian,Peak,Quarter,Power OTF Future,2019-11-19,N3PQ,2021.01,2021-01-01,2021-03-31,EUR/MWh,768,68.42
+Phelix-AT Peak Quarter OTF Future,Austrian,Peak,Quarter,Power OTF Future,2019-11-19,N3PQ,2021.04,2021-04-01,2021-06-30,EUR/MWh,780,50.23
+Phelix-AT Peak Quarter OTF Future,Austrian,Peak,Quarter,Power OTF Future,2019-11-19,N3PQ,2021.07,2021-07-01,2021-09-30,EUR/MWh,792,52.63
+Phelix-AT Peak Year OTF Future,Austrian,Peak,Year,Power OTF Future,2019-11-19,N3PY,2020.01,2020-01-01,2020-12-31,EUR/MWh,3144,57.32
+Phelix-AT Peak Year OTF Future,Austrian,Peak,Year,Power OTF Future,2019-11-19,N3PY,2021.01,2021-01-01,2021-12-31,EUR/MWh,3132,60.31
+Phelix-AT Peak Year OTF Future,Austrian,Peak,Year,Power OTF Future,2019-11-19,N3PY,2022.01,2022-01-03,2022-12-30,EUR/MWh,3120,62.27
+Phelix-AT Peak Year OTF Future,Austrian,Peak,Year,Power OTF Future,2019-11-19,N3PY,2023.01,2023-01-02,2023-12-29,EUR/MWh,3120,64.13
+Phelix-AT Peak Year OTF Future,Austrian,Peak,Year,Power OTF Future,2019-11-19,N3PY,2024.01,2024-01-01,2024-12-31,EUR/MWh,3144,66.01
+Phelix-AT Peak Year OTF Future,Austrian,Peak,Year,Power OTF Future,2019-11-19,N3PY,2025.01,2025-01-01,2025-12-31,EUR/MWh,3132,65.99
+French Base Month OTF Future,French,Base,Month,Power OTF Future,2019-11-19,N7BM,2019.11,2019-11-01,2019-11-30,EUR/MWh,720,45.59
+French Base Month OTF Future,French,Base,Month,Power OTF Future,2019-11-19,N7BM,2019.12,2019-12-01,2019-12-31,EUR/MWh,744,47.59
+French Base Month OTF Future,French,Base,Month,Power OTF Future,2019-11-19,N7BM,2020.01,2020-01-01,2020-01-31,EUR/MWh,744,52.84
+French Base Month OTF Future,French,Base,Month,Power OTF Future,2019-11-19,N7BM,2020.02,2020-02-01,2020-02-29,EUR/MWh,696,56.65
+French Base Month OTF Future,French,Base,Month,Power OTF Future,2019-11-19,N7BM,2020.03,2020-03-01,2020-03-31,EUR/MWh,743,48.63
+French Base Month OTF Future,French,Base,Month,Power OTF Future,2019-11-19,N7BM,2020.04,2020-04-01,2020-04-30,EUR/MWh,720,43.83
+French Base Month OTF Future,French,Base,Month,Power OTF Future,2019-11-19,N7BM,2020.05,2020-05-01,2020-05-31,EUR/MWh,744,37.62
+French Base Quarter OTF Future,French,Base,Quarter,Power OTF Future,2019-11-19,N7BQ,2020.01,2020-01-01,2020-03-31,EUR/MWh,2183,52.62
+French Base Quarter OTF Future,French,Base,Quarter,Power OTF Future,2019-11-19,N7BQ,2020.04,2020-04-01,2020-06-30,EUR/MWh,2184,40.35
+French Base Quarter OTF Future,French,Base,Quarter,Power OTF Future,2019-11-19,N7BQ,2020.07,2020-07-01,2020-09-30,EUR/MWh,2208,41.6
+French Base Quarter OTF Future,French,Base,Quarter,Power OTF Future,2019-11-19,N7BQ,2020.10,2020-10-01,2020-12-31,EUR/MWh,2209,56.44
+French Base Quarter OTF Future,French,Base,Quarter,Power OTF Future,2019-11-19,N7BQ,2021.01,2021-01-01,2021-03-31,EUR/MWh,2159,58.43
+French Base Quarter OTF Future,French,Base,Quarter,Power OTF Future,2019-11-19,N7BQ,2021.04,2021-04-01,2021-06-30,EUR/MWh,2184,38.99
+French Base Quarter OTF Future,French,Base,Quarter,Power OTF Future,2019-11-19,N7BQ,2021.07,2021-07-01,2021-09-30,EUR/MWh,2208,40.34
+French Base Year OTF Future,French,Base,Year,Power OTF Future,2019-11-19,N7BY,2020.01,2020-01-01,2020-12-31,EUR/MWh,8784,47.76
+French Base Year OTF Future,French,Base,Year,Power OTF Future,2019-11-19,N7BY,2021.01,2021-01-01,2021-12-31,EUR/MWh,8760,47.8
+French Base Year OTF Future,French,Base,Year,Power OTF Future,2019-11-19,N7BY,2022.01,2022-01-01,2022-12-31,EUR/MWh,8760,47.26
+French Peak Month OTF Future,French,Peak,Month,Power OTF Future,2019-11-19,N7PM,2019.11,2019-11-01,2019-11-29,EUR/MWh,252,56.52
+French Peak Month OTF Future,French,Peak,Month,Power OTF Future,2019-11-19,N7PM,2019.12,2019-12-02,2019-12-31,EUR/MWh,264,60.35
+French Peak Month OTF Future,French,Peak,Month,Power OTF Future,2019-11-19,N7PM,2020.01,2020-01-01,2020-01-31,EUR/MWh,276,67.76
+French Peak Month OTF Future,French,Peak,Month,Power OTF Future,2019-11-19,N7PM,2020.02,2020-02-03,2020-02-28,EUR/MWh,240,71.51
+French Peak Month OTF Future,French,Peak,Month,Power OTF Future,2019-11-19,N7PM,2020.03,2020-03-02,2020-03-31,EUR/MWh,264,57.37
+French Peak Quarter OTF Future,French,Peak,Quarter,Power OTF Future,2019-11-19,N7PQ,2020.01,2020-01-01,2020-03-31,EUR/MWh,780,65.4
+French Peak Quarter OTF Future,French,Peak,Quarter,Power OTF Future,2019-11-19,N7PQ,2020.04,2020-04-01,2020-06-30,EUR/MWh,780,48.47
+French Peak Quarter OTF Future,French,Peak,Quarter,Power OTF Future,2019-11-19,N7PQ,2020.07,2020-07-01,2020-09-30,EUR/MWh,792,50.23
+French Peak Quarter OTF Future,French,Peak,Quarter,Power OTF Future,2019-11-19,N7PQ,2020.10,2020-10-01,2020-12-31,EUR/MWh,792,71.93
+French Peak Quarter OTF Future,French,Peak,Quarter,Power OTF Future,2019-11-19,N7PQ,2021.01,2021-01-01,2021-03-31,EUR/MWh,768,73.37
+French Peak Quarter OTF Future,French,Peak,Quarter,Power OTF Future,2019-11-19,N7PQ,2021.04,2021-04-01,2021-06-30,EUR/MWh,780,49.18
+French Peak Quarter OTF Future,French,Peak,Quarter,Power OTF Future,2019-11-19,N7PQ,2021.07,2021-07-01,2021-09-30,EUR/MWh,792,51.12
+French Peak Year OTF Future,French,Peak,Year,Power OTF Future,2019-11-19,N7PY,2020.01,2020-01-01,2020-12-31,EUR/MWh,3144,59.02
+French Peak Year OTF Future,French,Peak,Year,Power OTF Future,2019-11-19,N7PY,2021.01,2021-01-01,2021-12-31,EUR/MWh,3132,61.25
+French Peak Year OTF Future,French,Peak,Year,Power OTF Future,2019-11-19,N7PY,2022.01,2022-01-03,2022-12-30,EUR/MWh,3120,61.73
+French Peak Year OTF Future,French,Peak,Year,Power OTF Future,2019-11-19,N7PY,2023.01,2023-01-02,2023-12-29,EUR/MWh,3120,62.32
+French Peak Day Future,French,Peak,Day,Power,2019-11-19,P719,2019.11,2019-11-19,2019-11-19,EUR/MWh,12,73.91
+French Peak Day Future,French,Peak,Day,Power,2019-11-19,P720,2019.11,2019-11-20,2019-11-20,EUR/MWh,12,66.56
+French Peak Day Future,French,Peak,Day,Power,2019-11-19,P721,2019.11,2019-11-21,2019-11-21,EUR/MWh,12,62.25
+French Peak Day Future,French,Peak,Day,Power,2019-11-19,P722,2019.11,2019-11-22,2019-11-22,EUR/MWh,12,55
+French Peak Day Future,French,Peak,Day,Power,2019-11-19,P723,2019.11,2019-11-23,2019-11-23,EUR/MWh,12,41.79
+French Peak Day Future,French,Peak,Day,Power,2019-11-19,P724,2019.11,2019-11-24,2019-11-24,EUR/MWh,12,33.57
+French Peak Day Future,French,Peak,Day,Power,2019-11-19,P725,2019.11,2019-11-25,2019-11-25,EUR/MWh,12,52.43
+PXE Hungarian Peak Day Future,Hungarian,Peak,Day,Power,2019-11-19,P919,2019.11,2019-11-19,2019-11-19,EUR/MWh,12,57.3
+PXE Hungarian Peak Day Future,Hungarian,Peak,Day,Power,2019-11-19,P920,2019.11,2019-11-20,2019-11-20,EUR/MWh,12,66.76
+PXE Hungarian Peak Day Future,Hungarian,Peak,Day,Power,2019-11-19,P921,2019.11,2019-11-21,2019-11-21,EUR/MWh,12,63.43
+PXE Hungarian Peak Day Future,Hungarian,Peak,Day,Power,2019-11-19,P922,2019.11,2019-11-22,2019-11-22,EUR/MWh,12,57.27
+PXE Hungarian Peak Day Future,Hungarian,Peak,Day,Power,2019-11-19,P923,2019.11,2019-11-23,2019-11-23,EUR/MWh,12,50.25
+PXE Hungarian Peak Day Future,Hungarian,Peak,Day,Power,2019-11-19,P924,2019.11,2019-11-24,2019-11-24,EUR/MWh,12,39.58
+PXE Hungarian Peak Day Future,Hungarian,Peak,Day,Power,2019-11-19,P925,2019.11,2019-11-25,2019-11-25,EUR/MWh,12,56.82
+Italian Peak Day Future,Italian,Peak,Day,Power,2019-11-19,PD19,2019.11,2019-11-19,2019-11-19,EUR/MWh,12,70.45
+Italian Peak Day Future,Italian,Peak,Day,Power,2019-11-19,PD20,2019.11,2019-11-20,2019-11-20,EUR/MWh,12,64.18
+Italian Peak Day Future,Italian,Peak,Day,Power,2019-11-19,PD21,2019.11,2019-11-21,2019-11-21,EUR/MWh,12,63.5
+Italian Peak Day Future,Italian,Peak,Day,Power,2019-11-19,PD22,2019.11,2019-11-22,2019-11-22,EUR/MWh,12,58.77
+Italian Peak Day Future,Italian,Peak,Day,Power,2019-11-19,PD23,2019.11,2019-11-23,2019-11-23,EUR/MWh,12,41.41
+Italian Peak Day Future,Italian,Peak,Day,Power,2019-11-19,PD24,2019.11,2019-11-24,2019-11-24,EUR/MWh,12,40.59
+Italian Peak Day Future,Italian,Peak,Day,Power,2019-11-19,PD25,2019.11,2019-11-25,2019-11-25,EUR/MWh,12,53.54
+PXE Czech Peak Day Future,Czech,Peak,Day,Power,2019-11-19,PX19,2019.11,2019-11-19,2019-11-19,EUR/MWh,12,50.48
+PXE Czech Peak Day Future,Czech,Peak,Day,Power,2019-11-19,PX20,2019.11,2019-11-20,2019-11-20,EUR/MWh,12,66.76
+PXE Czech Peak Day Future,Czech,Peak,Day,Power,2019-11-19,PX21,2019.11,2019-11-21,2019-11-21,EUR/MWh,12,59.93
+PXE Czech Peak Day Future,Czech,Peak,Day,Power,2019-11-19,PX22,2019.11,2019-11-22,2019-11-22,EUR/MWh,12,58.88
+PXE Czech Peak Day Future,Czech,Peak,Day,Power,2019-11-19,PX23,2019.11,2019-11-23,2019-11-23,EUR/MWh,12,45.09
+PXE Czech Peak Day Future,Czech,Peak,Day,Power,2019-11-19,PX24,2019.11,2019-11-24,2019-11-24,EUR/MWh,12,35.81
+PXE Czech Peak Day Future,Czech,Peak,Day,Power,2019-11-19,PX25,2019.11,2019-11-25,2019-11-25,EUR/MWh,12,49.56
+Dutch Base Week Future,Dutch,Base,Week,Power,2019-11-19,Q0B1,2019.11,2019-11-25,2019-12-01,EUR/MWh,168,39
+Dutch Base Week Future,Dutch,Base,Week,Power,2019-11-19,Q0B2,2019.12,2019-12-02,2019-12-08,EUR/MWh,168,42.9
+Dutch Base Week Future,Dutch,Base,Week,Power,2019-11-19,Q0B3,2019.12,2019-12-09,2019-12-15,EUR/MWh,168,43.83
+Dutch Base Week Future,Dutch,Base,Week,Power,2019-11-19,Q0B4,2019.11,2019-11-18,2019-11-24,EUR/MWh,168,44.07
+Dutch Base Week Future,Dutch,Base,Week,Power,2019-11-19,Q0B4,2019.12,2019-12-16,2019-12-22,EUR/MWh,168,44.46
+Dutch Base Month Future,Dutch,Base,Month,Power,2019-11-19,Q0BM,2019.11,2019-11-01,2019-11-30,EUR/MWh,720,41.34
+Dutch Base Month Future,Dutch,Base,Month,Power,2019-11-19,Q0BM,2019.12,2019-12-01,2019-12-31,EUR/MWh,744,42.08
+Dutch Base Month Future,Dutch,Base,Month,Power,2019-11-19,Q0BM,2020.01,2020-01-01,2020-01-31,EUR/MWh,744,47.8
+Dutch Base Month Future,Dutch,Base,Month,Power,2019-11-19,Q0BM,2020.02,2020-02-01,2020-02-29,EUR/MWh,696,49.81
+Dutch Base Month Future,Dutch,Base,Month,Power,2019-11-19,Q0BM,2020.03,2020-03-01,2020-03-31,EUR/MWh,743,45.54
+Dutch Base Quarter Future,Dutch,Base,Quarter,Power,2019-11-19,Q0BQ,2020.01,2020-01-01,2020-03-31,EUR/MWh,2183,47.67
+Dutch Base Quarter Future,Dutch,Base,Quarter,Power,2019-11-19,Q0BQ,2020.04,2020-04-01,2020-06-30,EUR/MWh,2184,43.69
+Dutch Base Quarter Future,Dutch,Base,Quarter,Power,2019-11-19,Q0BQ,2020.07,2020-07-01,2020-09-30,EUR/MWh,2208,43.64
+Dutch Base Quarter Future,Dutch,Base,Quarter,Power,2019-11-19,Q0BQ,2020.10,2020-10-01,2020-12-31,EUR/MWh,2209,49.87
+Dutch Base Year Future,Dutch,Base,Year,Power,2019-11-19,Q0BY,2020.01,2020-01-01,2020-12-31,EUR/MWh,8784,46.22
+Dutch Base Year Future,Dutch,Base,Year,Power,2019-11-19,Q0BY,2021.01,2021-01-01,2021-12-31,EUR/MWh,8760,46.64
+Dutch Base Year Future,Dutch,Base,Year,Power,2019-11-19,Q0BY,2022.01,2022-01-01,2022-12-31,EUR/MWh,8760,47.25
+Dutch Base Year Future,Dutch,Base,Year,Power,2019-11-19,Q0BY,2023.01,2023-01-01,2023-12-31,EUR/MWh,8760,48.97
+Dutch Peak Week Future,Dutch,Peak,Week,Power,2019-11-19,Q0P1,2019.11,2019-11-25,2019-11-29,EUR/MWh,60,48.68
+Dutch Peak Week Future,Dutch,Peak,Week,Power,2019-11-19,Q0P2,2019.12,2019-12-02,2019-12-06,EUR/MWh,60,50.88
+Dutch Peak Week Future,Dutch,Peak,Week,Power,2019-11-19,Q0P3,2019.12,2019-12-09,2019-12-13,EUR/MWh,60,51.55
+Dutch Peak Week Future,Dutch,Peak,Week,Power,2019-11-19,Q0P4,2019.11,2019-11-18,2019-11-22,EUR/MWh,60,55.13
+Dutch Peak Week Future,Dutch,Peak,Week,Power,2019-11-19,Q0P4,2019.12,2019-12-16,2019-12-20,EUR/MWh,60,53.61
+Dutch Peak Month Future,Dutch,Peak,Month,Power,2019-11-19,Q0PM,2019.11,2019-11-01,2019-11-29,EUR/MWh,252,50.46
+Dutch Peak Month Future,Dutch,Peak,Month,Power,2019-11-19,Q0PM,2019.12,2019-12-02,2019-12-31,EUR/MWh,264,49.77
+Dutch Peak Month Future,Dutch,Peak,Month,Power,2019-11-19,Q0PM,2020.01,2020-01-01,2020-01-31,EUR/MWh,276,57.88
+Dutch Peak Month Future,Dutch,Peak,Month,Power,2019-11-19,Q0PM,2020.02,2020-02-03,2020-02-28,EUR/MWh,240,59.1
+Dutch Peak Quarter Future,Dutch,Peak,Quarter,Power,2019-11-19,Q0PQ,2020.01,2020-01-01,2020-03-31,EUR/MWh,780,56.46
+Dutch Peak Quarter Future,Dutch,Peak,Quarter,Power,2019-11-19,Q0PQ,2020.04,2020-04-01,2020-06-30,EUR/MWh,780,47.41
+Dutch Peak Quarter Future,Dutch,Peak,Quarter,Power,2019-11-19,Q0PQ,2020.07,2020-07-01,2020-09-30,EUR/MWh,792,49.31
+Dutch Peak Quarter Future,Dutch,Peak,Quarter,Power,2019-11-19,Q0PQ,2020.10,2020-10-01,2020-12-31,EUR/MWh,792,61.32
+Dutch Peak Year Future,Dutch,Peak,Year,Power,2019-11-19,Q0PY,2020.01,2020-01-01,2020-12-31,EUR/MWh,3144,53.64
+Dutch Peak Year Future,Dutch,Peak,Year,Power,2019-11-19,Q0PY,2021.01,2021-01-01,2021-12-31,EUR/MWh,3132,54.55
+Dutch Peak Year Future,Dutch,Peak,Year,Power,2019-11-19,Q0PY,2022.01,2022-01-03,2022-12-30,EUR/MWh,3120,56.25
+Belgian Base Month Future,Belgian,Base,Month,Power,2019-11-19,Q1BM,2019.11,2019-11-01,2019-11-30,EUR/MWh,720,44.83
+Belgian Base Month Future,Belgian,Base,Month,Power,2019-11-19,Q1BM,2019.12,2019-12-01,2019-12-31,EUR/MWh,744,45.99
+Belgian Base Month Future,Belgian,Base,Month,Power,2019-11-19,Q1BM,2020.01,2020-01-01,2020-01-31,EUR/MWh,744,53.22
+Belgian Base Month Future,Belgian,Base,Month,Power,2019-11-19,Q1BM,2020.02,2020-02-01,2020-02-29,EUR/MWh,696,56.3
+Belgian Base Month Future,Belgian,Base,Month,Power,2019-11-19,Q1BM,2020.03,2020-03-01,2020-03-31,EUR/MWh,743,45.96
+Belgian Base Quarter Future,Belgian,Base,Quarter,Power,2019-11-19,Q1BQ,2020.01,2020-01-01,2020-03-31,EUR/MWh,2183,51.73
+Belgian Base Quarter Future,Belgian,Base,Quarter,Power,2019-11-19,Q1BQ,2020.04,2020-04-01,2020-06-30,EUR/MWh,2184,41.98
+Belgian Base Quarter Future,Belgian,Base,Quarter,Power,2019-11-19,Q1BQ,2020.07,2020-07-01,2020-09-30,EUR/MWh,2208,42.03
+Belgian Base Quarter Future,Belgian,Base,Quarter,Power,2019-11-19,Q1BQ,2020.10,2020-10-01,2020-12-31,EUR/MWh,2209,53.65
+Belgian Base Year Future,Belgian,Base,Year,Power,2019-11-19,Q1BY,2020.01,2020-01-01,2020-12-31,EUR/MWh,8784,47.35
+Belgian Base Year Future,Belgian,Base,Year,Power,2019-11-19,Q1BY,2021.01,2021-01-01,2021-12-31,EUR/MWh,8760,46.74
+Belgian Base Year Future,Belgian,Base,Year,Power,2019-11-19,Q1BY,2022.01,2022-01-01,2022-12-31,EUR/MWh,8760,47.74
+Dutch Base Day Future,Dutch,Base,Day,Power,2019-11-19,QB19,2019.11,2019-11-19,2019-11-19,EUR/MWh,24,47.64
+Dutch Base Day Future,Dutch,Base,Day,Power,2019-11-19,QB20,2019.11,2019-11-20,2019-11-20,EUR/MWh,24,50.52
+Dutch Base Day Future,Dutch,Base,Day,Power,2019-11-19,QB21,2019.11,2019-11-21,2019-11-21,EUR/MWh,24,49.88
+Dutch Base Day Future,Dutch,Base,Day,Power,2019-11-19,QB22,2019.11,2019-11-22,2019-11-22,EUR/MWh,24,45.25
+Dutch Base Day Future,Dutch,Base,Day,Power,2019-11-19,QB23,2019.11,2019-11-23,2019-11-23,EUR/MWh,24,38.68
+Dutch Base Day Future,Dutch,Base,Day,Power,2019-11-19,QB24,2019.11,2019-11-24,2019-11-24,EUR/MWh,24,35.56
+Dutch Base Day Future,Dutch,Base,Day,Power,2019-11-19,QB25,2019.11,2019-11-25,2019-11-25,EUR/MWh,24,40.54
+Dutch Base Day Future,Dutch,Base,Day,Power,2019-11-19,QB26,2019.11,2019-11-26,2019-11-26,EUR/MWh,24,41.32
+Dutch Peak Day Future,Dutch,Peak,Day,Power,2019-11-19,QP19,2019.11,2019-11-19,2019-11-19,EUR/MWh,12,56.72
+Dutch Peak Day Future,Dutch,Peak,Day,Power,2019-11-19,QP20,2019.11,2019-11-20,2019-11-20,EUR/MWh,12,60.76
+Dutch Peak Day Future,Dutch,Peak,Day,Power,2019-11-19,QP21,2019.11,2019-11-21,2019-11-21,EUR/MWh,12,57.28
+Dutch Peak Day Future,Dutch,Peak,Day,Power,2019-11-19,QP22,2019.11,2019-11-22,2019-11-22,EUR/MWh,12,51.81
+Dutch Peak Day Future,Dutch,Peak,Day,Power,2019-11-19,QP23,2019.11,2019-11-23,2019-11-23,EUR/MWh,12,43.56
+Dutch Peak Day Future,Dutch,Peak,Day,Power,2019-11-19,QP24,2019.11,2019-11-24,2019-11-24,EUR/MWh,12,39.5
+Dutch Peak Day Future,Dutch,Peak,Day,Power,2019-11-19,QP25,2019.11,2019-11-25,2019-11-25,EUR/MWh,12,49.31
+Dutch Peak Day Future,Dutch,Peak,Day,Power,2019-11-19,QP26,2019.11,2019-11-26,2019-11-26,EUR/MWh,12,48.92
+Dutch Base Weekend Future,Dutch,Base,Weekend,Power,2019-11-19,QWB4,2019.11,2019-11-23,2019-11-24,EUR/MWh,48,37.12
+Dutch Peak Weekend Future,Dutch,Peak,Weekend,Power,2019-11-19,QWP4,2019.11,2019-11-23,2019-11-24,EUR/MWh,24,41.53
+German Austrian Wind Power Week Future,German-Austrian,,Week,Wind Power,2019-11-19,W1B1,2019.11,2019-11-25,2019-12-01,EUR/MWh,168,24.08
+German Austrian Wind Power Week Future,German-Austrian,,Week,Wind Power,2019-11-19,W1B2,2019.12,2019-12-02,2019-12-08,EUR/MWh,168,23.05
+German Austrian Wind Power Week Future,German-Austrian,,Week,Wind Power,2019-11-19,W1B3,2019.12,2019-12-09,2019-12-15,EUR/MWh,168,27.87
+German Austrian Wind Power Week Future,German-Austrian,,Week,Wind Power,2019-11-19,W1B4,2019.11,2019-11-18,2019-11-24,EUR/MWh,168,15.47
+German Austrian Wind Power Week Future,German-Austrian,,Week,Wind Power,2019-11-19,W1B4,2019.12,2019-12-16,2019-12-22,EUR/MWh,168,28.15
+German Austrian Wind Power Month Future,German-Austrian,,Month,Wind Power,2019-11-19,W1BM,2019.11,2019-11-01,2019-11-30,EUR/MWh,720,20.04
+German Austrian Wind Power Month Future,German-Austrian,,Month,Wind Power,2019-11-19,W1BM,2019.12,2019-12-01,2019-12-31,EUR/MWh,744,27.92
+German Austrian Wind Power Quarter Future,German-Austrian,,Quarter,Wind Power,2019-11-19,W1BQ,2020.01,2020-01-01,2020-03-31,EUR/MWh,2183,26.99
+German Austrian Wind Power Year Future,German-Austrian,,Year,Wind Power,2019-11-19,W1BY,2020.01,2020-01-01,2020-12-31,EUR/MWh,8784,20.59
+PXE Hungarian Base Weekend Future,Hungarian,Base,Weekend,Power,2019-11-19,W9B4,2019.11,2019-11-23,2019-11-24,EUR/MWh,48,38.02
+PXE Czech Base Weekend Future,Czech,Base,Weekend,Power,2019-11-19,WXB4,2019.11,2019-11-23,2019-11-24,EUR/MWh,48,37.02

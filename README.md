@@ -1,4 +1,4 @@
-# Variance Gamma Model Calibration for Electricity Forwards and Options
+# Modeling German Power Forwards with the Variance Gamma Process
 
 This repository contains my exam project for the course  
 [**Stochastic Methods of Energy Markets**](https://studies.helsinki.fi/courses/course-implementation/hy-opt-cur-2425-462a39f0-a0c1-4367-acc8-130564ddd365)  
